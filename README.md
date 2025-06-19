@@ -4,11 +4,12 @@ A comprehensive collection of AI evaluation approaches using different framework
 
 ## Overview
 
-This repository contains sample implementations for evaluating AI applications using three different approaches:
+This repository contains sample implementations for evaluating AI applications using four different approaches:
 
 1. **LangChain Evaluation** - Using LangChain's built-in evaluation chains
 2. **HuggingFace Evaluation** - Using HuggingFace's evaluation libraries
 3. **Azure AI Evaluation** - Using Microsoft's Azure AI Evaluation SDK
+4. **Ragas Evaluation** - Using Ragas by Exploding Gradients for RAG-specific evaluation
 
 ## Directory Structure
 
@@ -27,6 +28,14 @@ ai-evaluation/
 │   ├── synthetic_data_generator.py
 │   ├── requirements.txt
 │   └── README.md
+├── ragas/                    # Ragas evaluation samples
+│   ├── ragas_evaluator.py
+│   ├── example_evaluations.py
+│   ├── demo.py
+│   ├── test_installation.py
+│   ├── requirements.txt
+│   ├── README.md
+│   └── __init__.py
 ├── requirements.txt          # Global dependencies
 └── README.md                # This file
 ```
@@ -118,6 +127,67 @@ python azure_agent_eval_sample.py
 python azure_rag_eval_sample.py
 ```
 
+### 4. Ragas Evaluation (`ragas/`)
+
+**Purpose**: Comprehensive RAG (Retrieval-Augmented Generation) evaluation using [Ragas](https://docs.ragas.io/en/latest/references/) by Exploding Gradients.
+
+**Features**:
+- **Answer Correctness**: LLM-based factual accuracy assessment
+- **Faithfulness**: Ensures answers don't hallucinate beyond retrieved context
+- **Context Precision**: Measures retrieval quality and relevance
+- **Context Recall**: Evaluates completeness of information retrieval
+- **Synthetic Test Set Generation**: Automatically generates diverse test questions
+- **LangChain Integration**: Seamless integration with LangChain components
+- **HuggingFace Support**: Uses HuggingFace embeddings and models
+- **FAISS Vector Store**: Efficient similarity search for retrieval
+- **Caching**: Intelligent caching for cost-effective evaluations
+
+**Key Metrics**:
+- Answer Correctness (0-1): Factual accuracy of generated answers
+- Faithfulness (0-1): Whether answer stays true to retrieved context
+- Context Precision (0-1): Relevance of retrieved documents to question
+- Context Recall (0-1): Completeness of relevant information retrieval
+- Context Relevancy (0-1): Overall relevance of retrieved context
+- Answer Relevancy (0-1): How relevant the answer is to the question
+
+**Usage**:
+```bash
+cd ragas
+# Install dependencies
+pip install -r requirements.txt
+
+# Test installation
+python test_installation.py
+
+# Run quick demo
+python demo.py
+
+# Run comprehensive evaluation
+python ragas_evaluator.py
+
+# Run examples with different scenarios
+python example_evaluations.py
+```
+
+**Quick Start**:
+```python
+from ragas_evaluator import RagasEvaluator, EvaluationConfig
+
+# Configure evaluation
+config = EvaluationConfig(
+    model_name="gpt-3.5-turbo",
+    batch_size=5
+)
+
+# Run evaluation
+evaluator = RagasEvaluator(config)
+results = evaluator.run_comprehensive_evaluation()
+
+# View results
+print("Answer Correctness:", results['metrics']['answer_correctness'])
+print("Faithfulness:", results['metrics']['faithfulness'])
+```
+
 ## Setup and Installation
 
 ### Prerequisites
@@ -156,6 +226,9 @@ pip install langchain langchain-openai langchain-community python-dotenv rapidfu
 
 # For HuggingFace evaluation
 pip install transformers datasets evaluate
+
+# For Ragas evaluation
+cd ragas && pip install -r requirements.txt
 ```
 
 ## Configuration
@@ -183,6 +256,22 @@ azure_ai_config = AzureAIConfig(
 )
 ```
 
+### Ragas Configuration
+
+For Ragas evaluation, configure the evaluation parameters:
+```python
+from ragas_evaluator import EvaluationConfig
+
+config = EvaluationConfig(
+    model_name="gpt-3.5-turbo",    # LLM for evaluation
+    temperature=0.0,               # Generation temperature
+    max_tokens=1000,               # Max tokens per response
+    batch_size=10,                 # Batch size for evaluation
+    cache_dir="./cache",           # Cache directory
+    results_dir="./eval-results"   # Results output directory
+)
+```
+
 ## Data Formats
 
 ### LangChain
@@ -198,23 +287,20 @@ azure_ai_config = AzureAIConfig(
 ### Azure AI
 - JSONL format for batch evaluation
 - Conversation format for multi-turn evaluation
-- Structured data with query, response, context, and ground truth
 
-## Output and Results
+### Ragas
+- DataFrame format with questions, answers, and contexts
+- Synthetic test set generation
+- Comprehensive metrics output in JSON and CSV formats
 
-### LangChain
-- Console output with evaluation scores
-- Detailed reasoning for each evaluation
+## Performance Comparison
 
-### HuggingFace
-- Evaluation metrics and scores
-- Model comparison results
-
-### Azure AI
-- JSON result files
-- Azure AI Studio portal integration
-- Comprehensive metrics dashboard
-- Row-level evaluation data
+| Framework | Best For | Key Strengths | Learning Curve |
+|-----------|----------|---------------|----------------|
+| **LangChain** | General LLM evaluation | Easy integration, multiple metrics | Low |
+| **HuggingFace** | Model comparison | LLM-as-judge, custom metrics | Medium |
+| **Azure AI** | Enterprise evaluation | Cloud integration, safety metrics | Medium |
+| **Ragas** | RAG-specific evaluation | RAG metrics, synthetic data generation | Low-Medium |
 
 ## Use Cases
 
@@ -239,17 +325,25 @@ azure_ai_config = AzureAIConfig(
 - Enterprise applications with Azure integration
 - Synthetic data generation for testing
 
+**Ragas Evaluation**:
+- Comprehensive RAG evaluation
+- RAG-specific metrics
+- Synthetic data generation
+- LangChain and HuggingFace integration
+
 ## Contributing
 
-1. Fork the repository
-2. Create a feature branch
-3. Add your evaluation samples
-4. Update documentation
-5. Submit a pull request
+To add new evaluation approaches:
+
+1. Create a new directory for your framework
+2. Include a `requirements.txt` file
+3. Add a comprehensive `README.md`
+4. Include example scripts and documentation
+5. Update this main README with your approach
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## References
 

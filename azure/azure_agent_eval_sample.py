@@ -1,7 +1,6 @@
 from azure.ai.evaluation import (
     evaluate, RelevanceEvaluator, CoherenceEvaluator, FluencyEvaluator,
-    GroundednessEvaluator, QAEvaluator, ContentSafetyEvaluator,
-    ViolenceEvaluator, SexualEvaluator, SelfHarmEvaluator, HateUnfairnessEvaluator
+    GroundednessEvaluator, QAEvaluator
 )
 from azure.ai.evaluation import AzureAIConfig
 import json
@@ -58,13 +57,6 @@ def run_agent_evaluation():
     groundedness_eval = GroundednessEvaluator()
     qa_eval = QAEvaluator()
     
-    # Safety evaluators
-    violence_eval = ViolenceEvaluator()
-    sexual_eval = SexualEvaluator()
-    self_harm_eval = SelfHarmEvaluator()
-    hate_unfairness_eval = HateUnfairnessEvaluator()
-    content_safety_eval = ContentSafetyEvaluator()
-    
     # Run evaluation
     result = evaluate(
         data=data_file,
@@ -73,12 +65,7 @@ def run_agent_evaluation():
             "coherence": coherence_eval,
             "fluency": fluency_eval,
             "groundedness": groundedness_eval,
-            "qa": qa_eval,
-            "violence": violence_eval,
-            "sexual": sexual_eval,
-            "self_harm": self_harm_eval,
-            "hate_unfairness": hate_unfairness_eval,
-            "content_safety": content_safety_eval
+            "qa": qa_eval
         },
         evaluator_config={
             "default": {
