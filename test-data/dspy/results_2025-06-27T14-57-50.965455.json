@@ -1,0 +1,24 @@
+{
+  "timestamp": "2025-06-27T14:57:50.965455",
+  "results": {
+    "Basic": {
+      "exact_match": 0.0,
+      "length_appropriate": 0.0,
+      "keyword_overlap": 0.520977845683728,
+      "combined": 0.1562933537051184
+    },
+    "Detailed": {
+      "exact_match": 0.0,
+      "length_appropriate": 0.0,
+      "keyword_overlap": 0.6035752482811306,
+      "combined": 0.18107257448433917
+    },
+    "Refined": {
+      "exact_match": 0.0,
+      "length_appropriate": 0.0,
+      "keyword_overlap": 0.5359663865546218,
+      "combined": 0.16078991596638653
+    }
+  },
+  "description": "DSPy summarization experiment results"
+}

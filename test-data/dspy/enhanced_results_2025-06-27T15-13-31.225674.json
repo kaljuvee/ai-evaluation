@@ -1,0 +1,202 @@
+{
+  "timestamp": "2025-06-27T15:13:31.225674",
+  "experiment_info": {
+    "description": "Enhanced DSPy summarization experiment with multiple prompt versions",
+    "models_tested": [
+      "Basic",
+      "Detailed",
+      "Refined",
+      "Academic",
+      "Executive",
+      "Technical"
+    ],
+    "test_articles_count": 8,
+    "metrics_used": [
+      "exact_match",
+      "length_appropriate",
+      "keyword_overlap",
+      "content_coverage",
+      "combined"
+    ]
+  },
+  "test_data": [
+    {
+      "title": "The Future of Remote Work in Post-Pandemic Era",
+      "content": "The COVID-19 pandemic accelerated the adoption of remote work practices across industries worldwide. What began as a temporary necessity has evolved into a fundamental shift in how organizations approach work arrangements. Companies have discovered that remote work can lead to increased productivity, reduced overhead costs, and improved employee satisfaction. However, this transition has also revealed challenges including difficulties in maintaining team cohesion, managing work-life boundaries, and ensuring equitable access to opportunities for all employees. Many organizations are now adopting hybrid work models that combine the benefits of remote work with the advantages of in-person collaboration. The long-term implications of this shift include potential changes in urban planning, real estate markets, and the structure of work itself.",
+      "expected_summary": "Remote work adoption accelerated by COVID-19 offers productivity benefits but challenges team cohesion, leading to hybrid models and broader societal impacts.",
+      "category": "business",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Sustainable Energy Solutions",
+      "content": "This is a medium article about environment. It discusses various aspects and implications of current developments in this field.",
+      "expected_summary": "Overview of environment developments and their significance.",
+      "category": "environment",
+      "difficulty": "medium"
+    },
+    {
+      "title": "Advances in Medical Technology",
+      "content": "This is a easy article about health. It discusses various aspects and implications of current developments in this field.",
+      "expected_summary": "Overview of health developments and their significance.",
+      "category": "health",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Advances in Medical Technology",
+      "content": "This is a hard article about health. It discusses various aspects and implications of current developments in this field.",
+      "expected_summary": "Overview of health developments and their significance.",
+      "category": "health",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Sustainable Energy Solutions",
+      "content": "This is a medium article about environment. It discusses various aspects and implications of current developments in this field.",
+      "expected_summary": "Overview of environment developments and their significance.",
+      "category": "environment",
+      "difficulty": "medium"
+    },
+    {
+      "title": "The Rise of Artificial Intelligence in Modern Computing",
+      "content": "Artificial Intelligence (AI) has transformed the landscape of modern computing in unprecedented ways. From machine learning algorithms that power recommendation systems to natural language processing models that enable human-like text generation, AI technologies are becoming increasingly sophisticated. The development of large language models like GPT-4 and Claude has demonstrated the potential for AI to understand and generate human language with remarkable accuracy. These advancements have applications across various industries, including healthcare, finance, education, and entertainment. However, the rapid pace of AI development also raises important questions about ethics, privacy, and the future of work. As AI systems become more capable, society must grapple with issues of bias, transparency, and accountability in AI decision-making processes.",
+      "expected_summary": "AI has revolutionized computing through machine learning and natural language processing, with applications across industries but raising ethical concerns about bias and accountability.",
+      "category": "technology",
+      "difficulty": "hard"
+    },
+    {
+      "title": "Blockchain Technology: Beyond Cryptocurrency",
+      "content": "While blockchain technology is most commonly associated with cryptocurrencies like Bitcoin and Ethereum, its applications extend far beyond digital currencies. Blockchain's core features of decentralization, immutability, and transparency make it suitable for various use cases including supply chain management, voting systems, digital identity verification, and smart contracts. In supply chain management, blockchain can provide end-to-end traceability of products from manufacturer to consumer, helping to prevent fraud and ensure product authenticity. Smart contracts, which are self-executing contracts with the terms directly written into code, can automate complex business processes and reduce the need for intermediaries. Despite its potential, blockchain technology faces challenges such as scalability issues, energy consumption concerns, and regulatory uncertainty.",
+      "expected_summary": "Blockchain technology extends beyond cryptocurrency to supply chain management, voting systems, and smart contracts, though it faces scalability and regulatory challenges.",
+      "category": "technology",
+      "difficulty": "easy"
+    },
+    {
+      "title": "Blockchain Technology: Beyond Cryptocurrency",
+      "content": "While blockchain technology is most commonly associated with cryptocurrencies like Bitcoin and Ethereum, its applications extend far beyond digital currencies. Blockchain's core features of decentralization, immutability, and transparency make it suitable for various use cases including supply chain management, voting systems, digital identity verification, and smart contracts. In supply chain management, blockchain can provide end-to-end traceability of products from manufacturer to consumer, helping to prevent fraud and ensure product authenticity. Smart contracts, which are self-executing contracts with the terms directly written into code, can automate complex business processes and reduce the need for intermediaries. Despite its potential, blockchain technology faces challenges such as scalability issues, energy consumption concerns, and regulatory uncertainty.",
+      "expected_summary": "Blockchain technology extends beyond cryptocurrency to supply chain management, voting systems, and smart contracts, though it faces scalability and regulatory challenges.",
+      "category": "technology",
+      "difficulty": "easy"
+    }
+  ],
+  "results": {
+    "Basic": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    },
+    "Detailed": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    },
+    "Refined": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    },
+    "Academic": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    },
+    "Executive": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    },
+    "Technical": {
+      "average_metrics": {
+        "exact_match": 0.0,
+        "length_appropriate": 0.0,
+        "keyword_overlap": 0.0,
+        "content_coverage": 0.0,
+        "combined": 0.0
+      },
+      "detailed_results": [],
+      "metric_explanations": {
+        "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+        "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+        "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+        "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+        "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+      }
+    }
+  },
+  "metric_explanations": {
+    "exact_match": "Measures perfect word-for-word matching between expected and predicted summaries. High scores indicate exact replication.",
+    "length_appropriate": "Checks if the summary length is within 50% of the expected length. Ensures summaries are neither too short nor too long.",
+    "keyword_overlap": "Measures the percentage of important words from the expected summary that appear in the predicted summary. Indicates semantic similarity.",
+    "content_coverage": "Measures how well the summary covers key terms from the article title. Ensures main topics are addressed.",
+    "combined": "Weighted combination of all metrics (30% exact match, 20% length, 30% keyword overlap, 20% coverage). Overall performance indicator."
+  },
+  "summary": {
+    "best_model": "Basic",
+    "best_score": 0.0,
+    "average_scores": {
+      "exact_match": 0.0,
+      "length_appropriate": 0.0,
+      "keyword_overlap": 0.0,
+      "content_coverage": 0.0,
+      "combined": 0.0
+    }
+  }
+}

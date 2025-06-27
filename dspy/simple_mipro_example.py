@@ -1,0 +1,1 @@
+"""Simple MIPRO Optimization Example"""
