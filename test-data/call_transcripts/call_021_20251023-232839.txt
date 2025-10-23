@@ -1,0 +1,13 @@
+Rep: Thanks for chatting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data accuracy and integration with our marketing tools. It’s slowing down our sales process.  
+Rep: That’s frustrating. How do you currently manage leads and track opportunities?  
+Prospect: Mostly through spreadsheets and manual entry, which leads to a lot of mistakes.  
+Rep: Got it. If we could improve data accuracy and streamline lead management, what would that mean for your team?  
+Prospect: We could close deals faster and improve forecasting.  
+Rep: Any budget constraints we should consider?  
+Prospect: We’re looking to keep it under $10,000 for this quarter.  
+Rep: Understood. We have a package that fits within your budget. How does our integration with your existing tools sound to you?  
+Prospect: That’s essential. We rely heavily on those.  
+Rep: We can set up a demo next week to show the integration capabilities. Would that work for you?  
+Prospect: Yes, let’s aim for Wednesday.  
+Rep: Perfect. I'll send a calendar invite and a brief agenda. Looking forward to it!

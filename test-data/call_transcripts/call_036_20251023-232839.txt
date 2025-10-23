@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are your sales team facing with your current CRM?  
+Prospect: We're struggling with lead tracking and the amount of manual data entry. It’s slowing us down.  
+Rep: That’s common. How much time do your reps spend on data entry weekly?  
+Prospect: At least 10 hours each. It’s frustrating for them.  
+Rep: If we could automate that process, what impact would that have on your team’s productivity?  
+Prospect: They’d have more time for selling, which is our goal.  
+Rep: Understood. Are there any specific features you’re hoping to see in a new CRM?  
+Prospect: Integration with our marketing tools is crucial.  
+Rep: We do offer seamless integrations. What’s your budget range for this project?  
+Prospect: Ideally under $10,000.  
+Rep: We can work within that budget. Any concerns about switching from your current system?  
+Prospect: Just the learning curve and data migration.  
+Rep: We offer training and support during migration. Can we schedule a demo to show how it works?  
+Prospect: Yes, let’s do it next Wednesday.  
+Rep: Great! I’ll send a calendar invite and demo agenda.

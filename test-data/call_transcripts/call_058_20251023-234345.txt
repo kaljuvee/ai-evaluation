@@ -1,0 +1,13 @@
+Rep: Thanks for joining the call today! What challenges are you facing with your current CRM solution?  
+Prospect: We struggle with tracking leads effectively and managing our pipeline. It feels chaotic.  
+Rep: I understand. How do you currently prioritize leads?  
+Prospect: It's mostly manual. We rely on spreadsheets, which slows us down.  
+Rep: What would a streamlined process mean for your sales team?  
+Prospect: Faster follow-ups and better close rates. Ideally, we’d want full visibility.  
+Rep: Any budget constraints we should consider?  
+Prospect: We're looking to keep it under $20,000 for the year.  
+Rep: That’s helpful. We can provide a solution that offers automation and analytics within budget. Are you evaluating any competitors?  
+Prospect: Yes, we’re looking at a few others, but we need something user-friendly.  
+Rep: Our platform is highly rated for ease of use. How about a demo next week to show you the features?  
+Prospect: That sounds good. Let’s do Tuesday at 2 PM.  
+Rep: Great! I’ll send a calendar invite and a brief agenda. Looking forward to it!

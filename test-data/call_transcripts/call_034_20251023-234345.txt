@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We've outgrown it; it's not flexible enough for our sales processes.  
+Rep: I see. What specific features are you missing that would help your team?  
+Prospect: Custom reporting and integration with our marketing tools are crucial.  
+Rep: Understood. What would an ideal CRM solution achieve for your sales team in the next quarter?  
+Prospect: We need to close deals faster and improve lead tracking significantly.  
+Rep: Any budget limitations we should consider?  
+Prospect: We're looking at around $15,000 for the year, but we need to see solid ROI.  
+Rep: Competitors like Salesforce can be pricey; our solution offers better customization at a lower cost. Any concerns before moving forward?  
+Prospect: Just the implementation timeline; we can't afford much downtime.  
+Rep: We can pilot our system in phases, starting with your sales team. Does next Tuesday work to kick off?  
+Prospect: Yes, let’s do that.  
+Rep: Perfect! I’ll send a calendar invite and outline the pilot plan.

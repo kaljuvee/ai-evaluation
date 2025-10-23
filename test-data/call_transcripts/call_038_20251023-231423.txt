@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you currently facing with your sales process?  
+Prospect: We're struggling with lead tracking and visibility into our pipeline. It's all over the place.  
+Rep: I see. What tools are you currently using for CRM?  
+Prospect: We're using a mix of spreadsheets and a basic CRM that doesn’t integrate well with our marketing tools.  
+Rep: How important is it for your team to have real-time insights into sales performance?  
+Prospect: Extremely. We need accurate forecasting to meet our targets.  
+Rep: Understood. Any budget constraints we should consider?  
+Prospect: We have a budget set aside, but it needs to show clear ROI.  
+Rep: Our CRM offers integration with major marketing platforms and can improve forecasting accuracy by 30%. Any concerns about implementation?  
+Prospect: Just the time it takes to train the team.  
+Rep: We offer comprehensive onboarding and support. How about we schedule a demo next week?  
+Prospect: That sounds good. Let’s aim for Wednesday.  
+Rep: Perfect, I’ll send a calendar invite and a demo agenda. Looking forward to it!

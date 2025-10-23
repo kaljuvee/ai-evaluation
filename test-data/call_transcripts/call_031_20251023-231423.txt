@@ -1,0 +1,13 @@
+Rep: Thanks for taking the call today. What’s driving your interest in a new CRM solution?  
+Prospect: Our current system is outdated and lacks integration with our marketing tools.  
+Rep: I see. What specific features are you looking for to improve your sales process?  
+Prospect: We need better lead tracking and reporting capabilities. Our team spends too much time on manual data entry.  
+Rep: Understandable. What would a successful implementation look like for you in the next three months?  
+Prospect: We want to streamline our pipeline and increase conversion rates by at least 20%.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget allocated for this quarter, but it has to show clear ROI.  
+Rep: Have you evaluated any other CRMs?  
+Prospect: Yes, we looked at Salesforce and HubSpot but found them too complex for our needs.  
+Rep: Our solution is tailored for mid-sized businesses and offers seamless integration. Would you be open to a demo next week?  
+Prospect: Yes, let’s schedule that.  
+Rep: Great! I’ll send a calendar invite for Wednesday and include a preliminary ROI estimate.

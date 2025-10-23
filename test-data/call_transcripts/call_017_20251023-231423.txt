@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today. What prompted you to explore a new CRM solution?  
+Prospect: Our current system is too rigid and doesn’t support our remote sales team effectively.  
+Rep: I see. What specific features are you looking for in a new CRM?  
+Prospect: Flexibility in customization and seamless integration with our existing tools.  
+Rep: Got it. How do these limitations impact your sales process currently?  
+Prospect: It slows us down, and we miss out on valuable insights.  
+Rep: Understood. What would success look like for your team in the next quarter?  
+Prospect: Increased sales productivity and better reporting for management.  
+Rep: Any budget constraints you’re working with?  
+Prospect: We have a budget set, but we need to see value first.  
+Rep: Competitors often highlight our flexibility and integration capabilities. Any concerns?  
+Prospect: Just the implementation timeline.  
+Rep: We can set up a trial in two weeks to showcase those features. Does that sound good?  
+Prospect: Yes, let’s do that.  
+Rep: I’ll send over the trial details and schedule a follow-up for next Thursday.

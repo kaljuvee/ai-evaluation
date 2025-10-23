@@ -1,0 +1,13 @@
+Rep: Thanks for your time today. What made you consider a new CRM solution now?  
+Prospect: Our current system is too rigid and doesn’t integrate well with our other tools.  
+Rep: I understand. Which tools are causing the most frustration?  
+Prospect: Mainly our email platform and marketing automation. The disconnection leads to data silos.  
+Rep: That’s a common pain point. If you could streamline those integrations, what would success look like for your team?  
+Prospect: A unified view of customer interactions and better lead tracking would be ideal.  
+Rep: Are there any budget constraints we should be aware of?  
+Prospect: We have some flexibility this quarter, but I’m also considering a couple of competitors.  
+Rep: We offer unique integration capabilities that might set us apart. Any concerns about switching?  
+Prospect: Just data migration and training for the team.  
+Rep: We can assist with a phased implementation and provide training. How about a demo next week?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Great! I’ll send a calendar invite and demo details shortly.

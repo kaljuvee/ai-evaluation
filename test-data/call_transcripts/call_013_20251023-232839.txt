@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What led you to explore new CRM solutions right now?  
+Prospect: Our current system lacks integration with our marketing tools, causing data silos.  
+Rep: I understand. How do those silos impact your sales performance?  
+Prospect: It slows down our lead follow-up and we miss tracking opportunities.  
+Rep: What would an ideal CRM improve for your team within three months?  
+Prospect: Better lead tracking, seamless integration, and real-time analytics.  
+Rep: Any budget constraints to keep in mind?  
+Prospect: We have a budget cap for this quarter, but we need a clear ROI.  
+Rep: Are you evaluating other CRM providers?  
+Prospect: Yes, Salesforce and HubSpot are on the table.  
+Rep: Our platform offers unique integration capabilities that have proven to reduce lead response time by 30%. Any concerns?  
+Prospect: Implementation time and training.  
+Rep: We can start with a pilot program that includes training. Does next Tuesday work for kickoff?  
+Prospect: Yes, that sounds good.  
+Rep: I’ll send over the pilot details and set up a follow-up for the training session.

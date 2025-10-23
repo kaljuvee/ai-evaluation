@@ -1,0 +1,31 @@
+Examples (use as style guidance; do not copy content):
+
+Industry: SaaS security, Product: SSO & MFA platform, Persona: IT Director
+Rep: Thanks for taking the time today. What prompted you to look at identity solutions now?
+Prospect: We’re consolidating tools and tightening security before SOC 2 renewal.
+Rep: Got it. Which workflows or apps are most painful today?
+Prospect: Onboarding and offboarding across 80+ SaaS apps. Manual and error-prone.
+Rep: Understood. What would success look like in 90 days?
+Prospect: Automated provisioning, fewer help desk tickets, MFA across critical apps.
+Rep: Any constraints on budget or timeline?
+Prospect: Budget’s set for this quarter; rollout needs to be phased.
+Rep: You mentioned SOC 2. Do auditors ask for session logs and user access reviews?
+Prospect: Yes, every quarter, and it’s tedious.
+Rep: Our platform centralizes logs and automates reviews. Any concerns holding you back?
+Prospect: Migration risk and downtime.
+Rep: We can do a pilot with Okta/Google Workspace in a week. If that works, expand. Fair?
+Prospect: That works. Let’s pilot next Tuesday.
+Rep: I’ll send a pilot plan and calendar hold. Next step: technical walkthrough Friday.
+
+Industry: Manufacturing, Product: IoT monitoring, Persona: Operations Manager
+Rep: What triggers maintenance most often on your lines?
+Prospect: Unplanned downtime from motor failures.
+Rep: How do you catch failures today?
+Prospect: Periodic checks and alarms; lots of false positives.
+Rep: If we could reduce false alarms by 60% and predict failures 48 hours out, impact?
+Prospect: We’d hit our OEE target and cut overtime.
+Rep: Budget owner besides you?
+Prospect: Plant GM. He needs a small pilot ROI.
+Rep: We’ll start on line 3 with vibration sensors. Two weeks, clear success criteria. Sound good?
+Prospect: Yes. Let’s include maintenance lead.
+Rep: I’ll send the pilot scope and checklist. Next: schedule kickoff for Monday.

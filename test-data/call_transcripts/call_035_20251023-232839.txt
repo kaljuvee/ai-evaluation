@@ -1,0 +1,25 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?
+
+Prospect: We’re struggling with lead tracking and our sales team finds it cumbersome.
+
+Rep: I see. What specific features are causing the most frustration?
+
+Prospect: The interface is outdated, and it doesn't integrate well with our email and marketing tools.
+
+Rep: That makes sense. If we could streamline lead management and improve integration, what would that mean for your team?
+
+Prospect: It would save us time and help us close deals faster.
+
+Rep: Are there any budget constraints we should be aware of?
+
+Prospect: We have a budget allocated for CRM upgrades this quarter, but it’s tight.
+
+Rep: Understood. How does your current CRM stack up against competitors you've considered?
+
+Prospect: We've looked at a couple, but they all seem to lack the customization we need.
+
+Rep: Our CRM offers robust customization options. Would a demo next week help you evaluate it further?
+
+Prospect: Yes, that sounds good. Let’s schedule it for Thursday.
+
+Rep: Perfect! I’ll send a calendar invite and a brief agenda. Looking forward to it!

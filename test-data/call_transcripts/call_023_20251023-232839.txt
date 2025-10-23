@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It’s become cumbersome.  
+Rep: I understand. What specific features do you feel are missing?  
+Prospect: Customizable dashboards for real-time sales metrics would help.  
+Rep: Great, and how are you currently managing sales forecasts?  
+Prospect: It's mostly spreadsheets, which leads to a lot of errors.  
+Rep: If we could streamline your forecasting process and improve accuracy, what would that mean for your team?  
+Prospect: It would save us hours and help us make better decisions.  
+Rep: Are there any budget constraints we should be aware of?  
+Prospect: We have some flexibility, but it needs to be under $10k for the first year.  
+Rep: Understood. We can offer a solution that fits within that range. Any competitors you’re considering?  
+Prospect: We’re looking at HubSpot and Salesforce.  
+Rep: Our pricing is competitive, and we have unique automation features. Can we schedule a demo next week?  
+Prospect: Yes, let’s do Wednesday.  
+Rep: Perfect, I’ll send a calendar invite and demo agenda.

@@ -1,0 +1,14 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and our sales reps aren’t using it consistently.  
+Rep: I see. How do you currently measure sales rep engagement with the CRM?  
+Prospect: Mostly through manual reports, which is time-consuming and not very accurate.  
+Rep: If we could enhance usage and improve lead visibility, what would that mean for your team?  
+Prospect: It would help us close deals faster and improve forecasting.  
+Rep: Is there a specific budget you’re working with for a new CRM?  
+Prospect: We have about $15,000 set aside for this quarter.  
+Rep: Are there other systems you’re considering?  
+Prospect: We’ve looked at Salesforce and HubSpot, but they seem costly.  
+Rep: Our solution is competitive and tailored for ease of use. Would a trial help you assess its fit?  
+Prospect: Yes, a trial would be great.  
+Rep: Let’s set up a demo next Wednesday and discuss the trial setup. Sound good?  
+Prospect: Perfect, I’ll get my team involved.

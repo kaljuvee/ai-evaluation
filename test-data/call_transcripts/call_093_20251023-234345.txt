@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: We're struggling with tracking leads and managing our sales pipeline effectively.  
+Rep: That’s a common challenge. Can you tell me more about your current process?  
+Prospect: We’re using spreadsheets, which leads to errors and lost opportunities.  
+Rep: I understand. What would a successful CRM implementation look like for you?  
+Prospect: Better visibility into our pipeline and streamlined communication among the team.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have about $15,000 allocated for this year, but we need to see ROI quickly.  
+Rep: Are there any specific features you’re looking for?  
+Prospect: Integration with our email and reporting tools is crucial.  
+Rep: Our CRM offers seamless integrations and robust reporting. Any hesitations about switching?  
+Prospect: Just concerns about user adoption.  
+Rep: We provide training sessions to ease the transition. How about a demo next week to show you the platform?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and prep some materials.

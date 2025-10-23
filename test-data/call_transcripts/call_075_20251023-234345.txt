@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time to chat today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data accuracy and integration with our sales tools. It’s slowing down our team.  
+Rep: I understand. How are these issues impacting your sales process?  
+Prospect: We're missing follow-ups and losing leads because of outdated info.  
+Rep: What would solving those issues mean for your team in the next quarter?  
+Prospect: A smoother workflow, better lead conversion, and hitting our quarterly targets.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget, but I need to justify a strong ROI to the CFO.  
+Rep: Our platform often improves conversion rates by 20%. Have you evaluated any competitors?  
+Prospect: Yes, but I found them lacking in integration.  
+Rep: We can offer a free trial to showcase our integration capabilities. How does that sound?  
+Prospect: That sounds good. When can we start?  
+Rep: Let’s set up a trial kickoff next Wednesday. I’ll send over a calendar invite.

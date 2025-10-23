@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today. What’s driving your search for a new CRM right now?  
+Prospect: Our current system is too rigid. We need something that adapts to our sales process.  
+Rep: I understand. Can you share which features are lacking?  
+Prospect: Customizable reporting and better integration with our marketing tools.  
+Rep: Great. How would those features improve your team's efficiency?  
+Prospect: We'd save time on manual reporting and have better lead tracking.  
+Rep: What’s your timeline for implementation?  
+Prospect: Ideally within the next quarter. We want to start seeing results fast.  
+Rep: Any budget constraints we should keep in mind?  
+Prospect: We have around $10,000 for the initial phase.  
+Rep: We can work within that. Competitively, we offer a quick setup and training. Any concerns?  
+Prospect: Just data migration risks.  
+Rep: We provide dedicated support for that. Let’s start with a pilot next month. How does that sound?  
+Prospect: That works. Let’s schedule a demo for next week.  
+Rep: I’ll send over the details. Next step: confirm the demo time.

@@ -1,7 +1,0 @@
-trulens-eval
-langchain
-langchain-openai
-langchain-community
-faiss-cpu
-dotenv
-

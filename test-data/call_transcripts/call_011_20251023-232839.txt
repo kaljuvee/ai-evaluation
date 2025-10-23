@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We struggle with lead tracking and reporting. It feels disjointed.  
+Rep: I understand. How does that impact your sales team’s productivity?  
+Prospect: They spend too much time entering data instead of selling.  
+Rep: If we could streamline data entry and provide real-time insights, what would that mean for your team?  
+Prospect: It would significantly boost our conversion rates.  
+Rep: Who else is involved in the decision-making process?  
+Prospect: The CFO is critical for budget approval.  
+Rep: Do you have a budget range in mind for a new CRM?  
+Prospect: We’re looking at around $20,000 for the year.  
+Rep: Our solution starts at $15,000 annually, with advanced reporting features. Any concerns about switching?  
+Prospect: Just the time it takes to train my team.  
+Rep: We offer comprehensive onboarding support. How about a demo next week to showcase our features?  
+Prospect: Sounds good. Let’s schedule that for Wednesday.  
+Rep: I’ll confirm the demo and send over some materials. Next, we can discuss the implementation plan.

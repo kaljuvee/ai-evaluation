@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM?  
+Prospect: We’re struggling with integration across our sales tools; it’s slowing us down.  
+Rep: I see. Which tools are the biggest pain points for your team?  
+Prospect: Mainly our email and lead scoring systems; they don’t sync well.  
+Rep: Understood. What would a streamlined process look like for you in the next few months?  
+Prospect: Faster lead follow-ups, better tracking, and more accurate forecasts.  
+Rep: Budget constraints to consider?  
+Prospect: We have some flexibility, but we need to see clear ROI.  
+Rep: Competitors often mention our seamless integration as a key differentiator. Does that resonate?  
+Prospect: Definitely, but I’m concerned about the onboarding process.  
+Rep: We offer dedicated support for onboarding. How about we schedule a demo next week?  
+Prospect: That sounds good. Let’s include my sales ops manager.  
+Rep: Perfect, I’ll send a calendar invite and demo agenda. Next step: confirm timing on Monday.

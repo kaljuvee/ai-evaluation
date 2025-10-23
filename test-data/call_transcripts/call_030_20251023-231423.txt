@@ -1,0 +1,25 @@
+Rep: Thanks for connecting today. What made you interested in a new CRM solution?
+
+Prospect: We're struggling with lead tracking and customer follow-ups. Our current system is too clunky.
+
+Rep: I understand. What specific features are you finding most challenging?
+
+Prospect: The reporting tools are limited, and our team spends too much time on manual data entry.
+
+Rep: If we could streamline those processes, what would that mean for your team’s productivity?
+
+Prospect: We could focus more on selling rather than data management.
+
+Rep: Any budget constraints we should be aware of for this quarter?
+
+Prospect: We're looking to keep it under $15,000 for the initial setup.
+
+Rep: Competitors often mention integration issues. Is that a concern for you?
+
+Prospect: Yes, especially with our marketing automation tool.
+
+Rep: Our CRM integrates seamlessly with most platforms. Would you be open to a demo next week?
+
+Prospect: Sure, that sounds good. I’d like my sales manager to join as well.
+
+Rep: Perfect. I’ll arrange the demo and follow up with a calendar invite. Next step: confirm the time.

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data silos and poor visibility into sales performance.  
+Rep: That’s common. How do you currently track leads and opportunities?  
+Prospect: It's mostly manual, and our team spends too much time entering data.  
+Rep: If we could automate that process and provide real-time dashboards, how would that help your team?  
+Prospect: It would let us focus on selling instead of admin tasks.  
+Rep: Do you have a budget allocated for a new CRM this quarter?  
+Prospect: Yes, but it’s tight. We’re looking for something under $15,000.  
+Rep: Our solution starts at $12,000 for the base package. Would that fit?  
+Prospect: That’s close, but I need to ensure it integrates well with our existing tools.  
+Rep: We have strong integrations with platforms like HubSpot and ZoomInfo. Would a demo next week work?  
+Prospect: Yes, let’s do that. I’ll also involve my sales manager.  
+Rep: Great! I’ll set up the demo and send a calendar invite for Thursday.

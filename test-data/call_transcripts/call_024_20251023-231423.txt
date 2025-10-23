@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: It’s becoming cumbersome for our sales team. We need better reporting and integration with our marketing tools.  
+Rep: Understood. How do those issues impact your sales performance?  
+Prospect: We’re missing leads because our follow-up isn’t timely; the data is scattered.  
+Rep: If you could streamline lead management and improve response times, what would that mean for your team?  
+Prospect: A 20% increase in conversion rates would be huge for us.  
+Rep: Are there specific integrations you need prioritized?  
+Prospect: Yes, we rely heavily on HubSpot and Slack.  
+Rep: Great. We offer seamless integration with both. What’s your budget for a new CRM?  
+Prospect: It’s set at $15,000 for the year.  
+Rep: We can fit that in. Any concerns about switching from your current system?  
+Prospect: Just the learning curve for my team.  
+Rep: We provide extensive training and support. Would you be open to a trial?  
+Prospect: Yes, a two-week trial would work.  
+Rep: I’ll send over the trial details and we can schedule a kickoff next week.

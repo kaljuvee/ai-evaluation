@@ -1,0 +1,13 @@
+Rep: I appreciate you taking the time today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with data silos and lack of visibility across teams. It’s affecting our sales forecasts.  
+Rep: That’s a common issue. How are you currently tracking sales performance?  
+Prospect: Mostly through spreadsheets and manual reports. It’s cumbersome and time-consuming.  
+Rep: If we could streamline reporting and integrate your data in real-time, how would that change things for your team?  
+Prospect: It would save us hours each week and help us make quicker decisions.  
+Rep: Do you have a specific budget in mind for a new CRM?  
+Prospect: We’re looking at around $15,000 annually.  
+Rep: Great. Have you evaluated any competitors?  
+Prospect: Yes, we looked at Salesforce, but it felt too complex for our needs.  
+Rep: Our platform is user-friendly and customizable. How about we schedule a demo next week?  
+Prospect: Sounds good! Let’s do it on Wednesday.  
+Rep: Perfect. I’ll send a calendar invite and some materials. Next step: prepare for the demo!

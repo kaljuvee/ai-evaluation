@@ -1,0 +1,15 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It's too manual and takes too long.  
+Rep: I see. How do you currently manage follow-ups with leads?  
+Prospect: Mostly through spreadsheets and emails; it’s chaotic.  
+Rep: If we could automate lead management and provide real-time analytics, how would that change your sales process?  
+Prospect: It would definitely speed things up and help us close deals faster.  
+Rep: What’s your budget for a new CRM solution?  
+Prospect: We have around $15,000 allocated for this quarter.  
+Rep: Great. Are there any specific features you’re looking for?  
+Prospect: Integration with our marketing platform is a must.  
+Rep: Our CRM offers seamless integration with most platforms. Any concerns about switching?  
+Prospect: Just the time it might take to train the team.  
+Rep: We provide comprehensive training. How about we schedule a demo next week?  
+Prospect: Sounds good. Let’s aim for Wednesday.  
+Rep: I’ll send a calendar invite and the demo agenda. Looking forward to it!

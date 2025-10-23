@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution right now?  
+Prospect: Our current system is outdated and doesn’t integrate well with our marketing tools.  
+Rep: That’s a common concern. Which features do you find most lacking?  
+Prospect: We need better lead tracking and reporting capabilities. Sales visibility is critical.  
+Rep: Understood. What does an ideal reporting dashboard look like for your team?  
+Prospect: Real-time metrics and forecasts would help us adjust strategies quickly.  
+Rep: Any budget constraints we should keep in mind?  
+Prospect: We’re looking to spend under $15,000 annually.  
+Rep: That’s feasible. How do you currently manage sales team training on the CRM?  
+Prospect: It’s a challenge; our team struggles with the current interface.  
+Rep: Our platform offers intuitive training modules. Any lingering concerns?  
+Prospect: I worry about the transition period and data migration.  
+Rep: We provide dedicated support for migration. How about a demo next week?  
+Prospect: Sure, let’s do Tuesday.  
+Rep: I’ll send a calendar invite and demo details. Next step: gather your team for feedback.

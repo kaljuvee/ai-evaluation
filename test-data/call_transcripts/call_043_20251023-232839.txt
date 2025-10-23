@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: Our sales reps find it clunky and hard to use, which slows down our pipeline.  
+Rep: That’s frustrating. What specific features are they struggling with?  
+Prospect: The reporting tools aren’t user-friendly, and tracking customer interactions is tedious.  
+Rep: Understood. If we could streamline your reporting and improve user adoption, what would that mean for your team?  
+Prospect: It would definitely boost our productivity and help us close deals faster.  
+Rep: Do you have a budget or timeline in mind for this project?  
+Prospect: We’ve allocated some budget for this quarter, but I need to show ROI to the CFO.  
+Rep: Have you compared other CRM options?  
+Prospect: We looked at HubSpot, but I’m concerned about the learning curve.  
+Rep: Our platform offers a simple onboarding process and dedicated support. How about a demo next week to explore that?  
+Prospect: That sounds good. Let’s do it Wednesday.  
+Rep: I’ll send a calendar invite and demo agenda. Next step: review your current sales process.

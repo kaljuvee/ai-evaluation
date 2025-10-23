@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM?  
+Prospect: We're struggling with data management and tracking sales activities efficiently.  
+Rep: I see. How are those issues impacting your sales team's performance?  
+Prospect: It leads to missed opportunities and a lack of visibility into pipeline health.  
+Rep: Understood. What features would you say are most critical in a new CRM?  
+Prospect: We need better reporting tools and integration with our existing systems.  
+Rep: Got it. Any budget constraints we should be aware of?  
+Prospect: We have around $15,000 for this quarter, but we want to ensure it delivers value.  
+Rep: Our CRM starts at $12,000 with robust reporting and integration capabilities. Any concerns about implementation?  
+Prospect: Just the typical worries about training and user adoption.  
+Rep: We offer comprehensive onboarding and support. How about a demo next week to see if it fits?  
+Prospect: That sounds good. Let’s schedule a demo for Thursday.  
+Rep: Great! I’ll send a calendar invite and confirm our agenda.

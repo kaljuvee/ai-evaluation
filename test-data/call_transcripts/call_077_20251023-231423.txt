@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: It’s not user-friendly, and our sales team spends too much time inputting data.  
+Rep: I see. What features do you think would improve their productivity?  
+Prospect: Automation for follow-ups and better reporting tools.  
+Rep: Great. If you could achieve those improvements, what would success look like in three months?  
+Prospect: Higher sales velocity and more accurate forecasting.  
+Rep: What’s your budget for a new CRM?  
+Prospect: We're looking to stay under $10,000 annually.  
+Rep: Understood. Have you considered other CRM options?  
+Prospect: Yes, Salesforce, but it seems too complex for us.  
+Rep: Our platform offers simplicity with powerful automation. Any concerns that might hold you back?  
+Prospect: Just the migration process.  
+Rep: We can support a phased rollout to ease the transition. How about a demo next week?  
+Prospect: Sounds good. Let’s schedule it for Wednesday.  
+Rep: I’ll send a calendar invite. Next step: gather your team for the demo.

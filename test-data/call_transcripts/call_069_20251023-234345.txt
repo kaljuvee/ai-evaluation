@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today. What led you to explore a new CRM solution?  
+Prospect: Our current system is clunky and isn’t scaling with our growth.  
+Rep: I understand. What specific challenges are you facing with your current CRM?  
+Prospect: It’s hard to track leads and manage follow-ups effectively.  
+Rep: If we could streamline lead tracking and improve follow-up efficiency, what would that mean for your team?  
+Prospect: It would boost our close rates significantly.  
+Rep: Are there specific features you’re prioritizing?  
+Prospect: Integration with our marketing tools is a must.  
+Rep: What’s your budget look like for this project?  
+Prospect: We’ve allocated around $20,000 for the next quarter.  
+Rep: Competitively, our pricing starts at $15,000 annually, which includes integration support. Any concerns about transitioning?  
+Prospect: Just the fear of data loss during migration.  
+Rep: We offer a dedicated migration team to ensure a smooth transition. How about we schedule a demo next week?  
+Prospect: Sure, that sounds good. Let’s also include my marketing lead.  
+Rep: I’ll set that up and send a calendar invite for Tuesday.

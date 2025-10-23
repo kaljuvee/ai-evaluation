@@ -1,0 +1,15 @@
+Rep: Thanks for taking the call today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It feels like we're missing opportunities.  
+Rep: I understand. How are you currently managing your leads?  
+Prospect: Mostly through spreadsheets and our existing CRM, but it’s not integrated.  
+Rep: What would an ideal solution look like for you?  
+Prospect: Real-time insights and automated follow-ups would be fantastic.  
+Rep: That makes sense. Are there any specific features you wish your current CRM had?  
+Prospect: A built-in analytics dashboard would help a lot.  
+Rep: Great! How does your budget look for a CRM upgrade?  
+Prospect: We have some flexibility, but I need to justify the investment to the CFO.  
+Rep: Competing solutions often lack integration. We can show how ours outperforms them with case studies. Any concerns?  
+Prospect: Just the migration process. I want to avoid disruption.  
+Rep: We can offer a phased rollout with a pilot program. Would you be open to that?  
+Prospect: Yes, that sounds good. Let’s plan for a demo next week.  
+Rep: I’ll set that up and send you a calendar invite. Next step: gather your team for feedback.

@@ -1,0 +1,13 @@
+Rep: Thanks for speaking with me today! What challenges are you facing with your current CRM?  
+Prospect: We're struggling with data silos and poor visibility into our sales pipeline.  
+Rep: That’s common. How does that impact your sales team's performance?  
+Prospect: It leads to missed opportunities and inconsistent forecasting.  
+Rep: If we could integrate your data and improve forecasting accuracy by 30%, what would that mean for your team?  
+Prospect: We’d hit our quarterly targets more reliably, which is crucial for us.  
+Rep: Do you have a budget in mind for a new CRM solution?  
+Prospect: We’re looking to stay under $15,000 annually.  
+Rep: Our pricing starts at $12,000, which includes integration and training. Any concerns about switching CRMs?  
+Prospect: I worry about user adoption and data migration hiccups.  
+Rep: We offer a dedicated onboarding team to ensure a smooth transition. Would a pilot program help alleviate those concerns?  
+Prospect: Yes, starting with a small team sounds good.  
+Rep: Let’s plan for a pilot with your sales team next month. I’ll send over a proposal and schedule a follow-up.

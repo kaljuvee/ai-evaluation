@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with tracking leads and managing follow-ups efficiently. It's a bit chaotic.  
+Rep: I understand. How does that impact your sales team's performance?  
+Prospect: We miss out on potential deals because leads fall through the cracks.  
+Rep: What features are you seeking in a CRM to solve that?  
+Prospect: Automated follow-ups and better reporting would help us stay on top of leads.  
+Rep: Our CRM offers automated reminders and customizable dashboards. What budget do you have in mind?  
+Prospect: We’re looking to spend under $2,000 a month.  
+Rep: That fits within our pricing. Are there other solutions you’re considering?  
+Prospect: We’ve looked at HubSpot, but it feels a bit pricey.  
+Rep: Our pricing is competitive, and we offer a seamless onboarding process. Would you be open to a demo next week?  
+Prospect: Sure, let’s do Tuesday at 10 AM.  
+Rep: Great! I’ll send a calendar invite and follow up with a demo agenda.

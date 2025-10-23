@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: It's not user-friendly, and the sales team struggles with adoption.  
+Rep: I see. How do you envision an ideal CRM enhancing your sales process?  
+Prospect: It should streamline our pipeline management and improve forecasting accuracy.  
+Rep: Understood. What specific features are most critical for you?  
+Prospect: Integration with our marketing tools and real-time reporting are key.  
+Rep: Any budget parameters we should consider?  
+Prospect: We have about $15,000 allocated, but we need to see a strong ROI.  
+Rep: Competitors often struggle with integration. How important is that for your decision?  
+Prospect: Very. If it doesn't integrate well, we won't consider it.  
+Rep: We can demonstrate our seamless integration in a trial. How does a pilot next week sound?  
+Prospect: That works. Let’s involve the sales manager too.  
+Rep: Great! I'll send over the pilot details and schedule a kickoff for Wednesday.

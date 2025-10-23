@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data visibility and managing leads effectively. Sales reps spend too much time on admin tasks.  
+Rep: I see. What specific features are you looking for to improve that?  
+Prospect: We need better reporting and automation for follow-ups.  
+Rep: Understood. If you could streamline your lead management, what would that mean for your team’s performance?  
+Prospect: More time for selling, which could boost our quarterly numbers significantly.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget set for this quarter, but we’re also looking at competitors.  
+Rep: Totally fair. Our CRM integrates well with existing tools and offers customizable reports. Any concerns you'd like to address?  
+Prospect: Just the migration process. We can’t afford downtime.  
+Rep: We can start with a phased rollout and provide support during migration. How about a demo next week?  
+Prospect: Sounds good. Let's schedule it for Wednesday.  
+Rep: Perfect! I’ll send over the calendar invite and demo agenda.

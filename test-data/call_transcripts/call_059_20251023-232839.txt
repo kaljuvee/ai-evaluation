@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: It’s too complex for the team; they struggle with adoption.  
+Rep: I see. What features do you find most underused?  
+Prospect: The reporting tools. They’re powerful but hard to navigate.  
+Rep: Understood. What would make the CRM easier for your team?  
+Prospect: A more intuitive interface and better training resources.  
+Rep: Absolutely. What goals do you have for your sales team this quarter?  
+Prospect: We want to increase our lead conversion rate by 20%.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget, but we’re also evaluating a competitor’s solution.  
+Rep: Our platform offers customizable dashboards and user-friendly training sessions. Would a demo help?  
+Prospect: Yes, but I’m concerned about the transition period.  
+Rep: We can implement in phases to minimize disruption. How about a demo next Wednesday?  
+Prospect: That works. Let’s include my sales manager.  
+Rep: I’ll send a calendar invite for the demo and include the agenda. Next step: follow up on feedback post-demo.

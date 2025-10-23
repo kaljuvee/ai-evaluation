@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data accuracy and user adoption. Sales reps find it cumbersome.  
+Rep: Understood. Can you share how data inaccuracies are impacting your sales process?  
+Prospect: We miss out on leads because of outdated info. It’s frustrating.  
+Rep: What features are most important for your team?  
+Prospect: Easy integration with our email and a mobile-friendly interface.  
+Rep: Our CRM offers seamless email integration and a robust mobile app. What’s your budget for this upgrade?  
+Prospect: We’re looking at around $15,000 this quarter.  
+Rep: We have plans that fit within that range. Would you be open to a demo to see how it addresses your needs?  
+Prospect: Sure, but I’m concerned about the learning curve.  
+Rep: We provide comprehensive training and support. How about a demo next week?  
+Prospect: That works. Let’s schedule it for Wednesday.  
+Rep: Great! I’ll send a calendar invite and a follow-up email with details.

@@ -1,0 +1,15 @@
+Rep: Thanks for joining the call today! What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data silos and poor visibility into sales performance.  
+Rep: That’s a common issue. How are you currently tracking sales metrics?  
+Prospect: Mostly through spreadsheets, and it’s just not scalable anymore.  
+Rep: Understood. What key metrics do you need visibility on?  
+Prospect: Pipeline health and conversion rates, mainly.  
+Rep: If we could provide real-time insights into those metrics, how would that help your team?  
+Prospect: It would help us make quicker decisions and adjust tactics on the fly.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget for this quarter, but it’s tight.  
+Rep: I see. Our solution starts at $50 per user, with a 20% discount for annual commitments. Any worries about implementation?  
+Prospect: Just that it disrupts our sales process.  
+Rep: We offer a phased rollout and dedicated support. How about a demo next week?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Great! I’ll send a calendar invite and follow up with the demo agenda.

@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What’s driving your interest in a new CRM solution?  
+Prospect: Our current system is too clunky, and our team is frustrated. We need something more intuitive.  
+Rep: I understand. Can you share specific pain points or features you’re missing?  
+Prospect: We struggle with tracking leads and managing follow-ups. Reporting is also a nightmare.  
+Rep: What would a successful CRM look like for your team in 90 days?  
+Prospect: Easy lead tracking, automated follow-ups, and streamlined reporting.  
+Rep: Do you have a budget or timeline in mind?  
+Prospect: We’re looking to implement in the next quarter, but budget is tight.  
+Rep: Are there any competitors you’re considering?  
+Prospect: We’ve looked at HubSpot and Salesforce, but we need something more cost-effective.  
+Rep: Our platform offers customizable pricing. Would you be open to a demo next week?  
+Prospect: Yes, but I need to see how it integrates with our existing tools.  
+Rep: I’ll set up a demo focused on integration. Next step: I’ll send a calendar invite for Wednesday.

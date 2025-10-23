@@ -1,0 +1,14 @@
+Rep: Thanks for connecting today! What are the biggest challenges your sales team is facing right now?  
+Prospect: We’re struggling with lead management and tracking customer interactions effectively.  
+Rep: That’s common. How are you currently managing your leads?  
+Prospect: Mostly through spreadsheets and email. It’s chaotic and we’re missing follow-ups.  
+Rep: I see. What would a streamlined solution look like for you?  
+Prospect: Automated reminders and better visibility into our pipeline would be ideal.  
+Rep: Understood. Do you have a budget in mind for a CRM solution?  
+Prospect: We’re looking at around $15,000 for the year.  
+Rep: That aligns with our pricing. How does your current system compare to what you’re looking for?  
+Prospect: It can’t track interactions, which is a dealbreaker.  
+Rep: Our CRM offers robust tracking and automation. Would a demo help you see the potential?  
+Prospect: Yes, but I need to run it by my team first.  
+Rep: Let’s schedule a demo next week. I’ll follow up with details today. Sound good?  
+Prospect: Perfect, looking forward to it!

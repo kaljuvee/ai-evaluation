@@ -1,0 +1,25 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM solution?
+
+Prospect: We’re struggling with lead tracking and reporting. It’s too cumbersome, and our team is frustrated.
+
+Rep: I understand. What specific features are causing the most frustration?
+
+Prospect: The reporting is manual and takes too long. We need real-time insights to make quick decisions.
+
+Rep: If we could automate those reports and streamline tracking, what would that mean for your team?
+
+Prospect: It would save us time and help us close deals faster. 
+
+Rep: Any budget constraints I should be aware of?
+
+Prospect: We have a budget set for this quarter, but I need to justify the ROI to the board.
+
+Rep: Understood. Have you looked at other CRMs, or are we your first?
+
+Prospect: We’ve considered a couple, but they didn’t meet our needs.
+
+Rep: Our solution offers customizable dashboards and integration with your existing tools. How about a demo next week?
+
+Prospect: That sounds good. Let’s do it Tuesday.
+
+Rep: Great! I’ll send a calendar invite. Next step: prepare a tailored demo for your team.

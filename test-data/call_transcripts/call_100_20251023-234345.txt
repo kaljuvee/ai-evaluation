@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: Our current system is clunky and doesn’t integrate well with our other tools.  
+Rep: I see. Which tools are you trying to integrate?  
+Prospect: Primarily our email platform and project management software.  
+Rep: Understood. What specific features are you looking for in a new CRM?  
+Prospect: We need better reporting capabilities and automated follow-ups for leads.  
+Rep: That makes sense. What would a successful implementation look like for you in three months?  
+Prospect: Increased lead conversion rates and less time spent on data entry.  
+Rep: What’s your budget for this project?  
+Prospect: We’re looking at around $10,000 for the first year.  
+Rep: Competitively, our solution starts at $8,000 annually with full support. Any concerns about switching?  
+Prospect: Just the migration process and user training.  
+Rep: We offer a dedicated onboarding team to streamline that. Can we schedule a demo next week?  
+Prospect: Sure, let’s do Thursday.  
+Rep: Perfect! I’ll send a calendar invite and demo details.

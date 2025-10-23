@@ -1,0 +1,13 @@
+Rep: Hi, thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with tracking leads effectively and the sales team feels overwhelmed.  
+Rep: That’s a common issue. How do you currently manage your lead follow-ups?  
+Prospect: Mostly through spreadsheets and manual reminders, which is inefficient.  
+Rep: If we could streamline lead management and automate reminders, what impact would that have?  
+Prospect: It would free up time for my team to focus on selling instead of data entry.  
+Rep: Any budget constraints we should consider for a solution?  
+Prospect: We have some flexibility, but I need to justify ROI to the CFO.  
+Rep: Understood. Have you looked into any other CRM solutions?  
+Prospect: We’ve considered Salesforce, but it’s pricey and complicated.  
+Rep: Our platform offers similar features at a lower cost with a user-friendly interface. Would a demo help?  
+Prospect: Yes, that sounds good.  
+Rep: Let’s schedule a demo for Thursday. I’ll follow up with an invite.

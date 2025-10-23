@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today! What led you to explore CRM solutions right now?  
+Prospect: We’re struggling with lead tracking and team collaboration; our current system isn't cutting it.  
+Rep: I see. Can you share more about your lead management process?  
+Prospect: We use spreadsheets, but it’s messy and hard to keep everyone on the same page.  
+Rep: Understood. What would an ideal solution help you achieve in three months?  
+Prospect: Streamlined lead tracking and better visibility on sales performance.  
+Rep: Any budget constraints or timeline for implementation?  
+Prospect: We have a budget set for Q1, but we need something implemented quickly.  
+Rep: Are you considering other CRMs?  
+Prospect: Yes, but they all seem too complicated for our team.  
+Rep: Our CRM is user-friendly and offers a 30-day trial. Would you be open to that?  
+Prospect: A trial sounds good, but I’m concerned about data migration.  
+Rep: We provide full support for migrations. How about we schedule a demo next week?  
+Prospect: Let’s do that. I’ll gather my team for the demo.  
+Rep: Perfect! I’ll send a calendar invite and a demo agenda. Next step: follow up post-demo.

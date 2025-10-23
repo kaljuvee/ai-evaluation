@@ -1,0 +1,25 @@
+Rep: Thanks for connecting today. Can you share what challenges your sales team is facing with your current CRM?
+
+Prospect: Our reps are struggling with lead management and tracking customer interactions effectively.
+
+Rep: I see. How are you currently prioritizing leads?
+
+Prospect: It’s mostly manual. We rely on spreadsheets, which leads to missed opportunities.
+
+Rep: What would a successful CRM implementation look like for you in the next few months?
+
+Prospect: Streamlined lead scoring and better visibility on our pipeline would be key.
+
+Rep: Any budget considerations we should keep in mind?
+
+Prospect: We have some flexibility, but I need to justify the ROI to the CFO.
+
+Rep: Understood. Have you explored any other CRM solutions?
+
+Prospect: We’ve looked at Salesforce, but it seems complex and pricey.
+
+Rep: Our solution is user-friendly and tailored for sales teams, often allowing for quicker adoption. Would a demo help illustrate the value?
+
+Prospect: A demo sounds good. 
+
+Rep: Great! I’ll set that up for Thursday. Next step: I’ll send over an agenda beforehand.

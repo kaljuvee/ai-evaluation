@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: Our sales reps find it too complicated and time-consuming. It’s affecting our productivity.  
+Rep: I understand. Can you share which specific features are causing frustration?  
+Prospect: Mainly lead tracking and reporting. It takes too long to generate insights.  
+Rep: What would an ideal CRM help you achieve in the next quarter?  
+Prospect: Streamlined reporting and better lead management would be key.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget set for Q4, but it’s tight.  
+Rep: Understood. How does your team currently compare our CRM to competitors?  
+Prospect: We’ve looked at a few, but they seem either too expensive or complex.  
+Rep: Our platform is user-friendly and offers scalable pricing. Would a demo help clarify?  
+Prospect: Yes, but I need to see clear ROI first.  
+Rep: We can set up a demo next week, and I’ll prepare a ROI analysis. Does that work?  
+Prospect: Sounds good! Let’s schedule the demo for Wednesday.  
+Rep: I’ll send a calendar invite and the ROI details. Next step: connect on Friday.

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and integration with our marketing tools.  
+Rep: I understand. How are those issues impacting your sales team's productivity?  
+Prospect: A lot of manual data entry, leading to missed opportunities and frustration among reps.  
+Rep: That’s tough. If you could automate those processes, what would that enable your team to achieve?  
+Prospect: More time for selling and better lead follow-up.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget for this quarter, but it’s tight.  
+Rep: We offer flexible pricing plans. Our solution starts at $49/user/month. How does that align with your expectations?  
+Prospect: It’s close, but I need to compare with our current vendor.  
+Rep: Fair enough. Would a demo next week help you evaluate our solution?  
+Prospect: Yes, that would be great.  
+Rep: I’ll set that up and send you a calendar invite. Next step: confirm the time and send over case studies.

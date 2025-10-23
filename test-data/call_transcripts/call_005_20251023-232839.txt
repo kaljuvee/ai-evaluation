@@ -1,0 +1,29 @@
+Rep: Thanks for meeting today. What prompted your interest in a new CRM solution?
+
+Prospect: Our current system isn’t scaling with our growth. We need better visibility into sales performance.
+
+Rep: That makes sense. What specific features are you looking for to improve visibility?
+
+Prospect: We need real-time reporting and better forecasting tools. The manual processes are slowing us down.
+
+Rep: I understand. What would a successful outcome look like in three months?
+
+Prospect: A streamlined process that allows us to analyze sales data quickly and accurately.
+
+Rep: Any budget constraints we should be aware of?
+
+Prospect: We have a budget, but it needs to show clear ROI within six months.
+
+Rep: Do you have other CRM solutions in mind?
+
+Prospect: We’ve looked at Salesforce and HubSpot, but they seem complex for our needs.
+
+Rep: Our CRM is user-friendly and integrates seamlessly with your existing tools. Any concerns holding you back?
+
+Prospect: Just the implementation timing. We don’t want disruption.
+
+Rep: We can implement in phases. How about a trial period to assess fit?
+
+Prospect: That sounds good. Let’s set it up.
+
+Rep: Great! I’ll send over a trial proposal and schedule a follow-up for next week.

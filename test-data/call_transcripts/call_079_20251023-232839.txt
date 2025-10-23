@@ -1,0 +1,29 @@
+Rep: Thanks for connecting today! What sparked your interest in a new CRM solution?
+
+Prospect: We're looking to improve our sales forecasting accuracy. Our current system isn't cutting it.
+
+Rep: I see. What specific challenges are you facing with forecasting?
+
+Prospect: It’s mostly manual data entry, which leads to mistakes. Our reps spend too much time on admin tasks.
+
+Rep: Understood. What would a streamlined process look like for your team in three months?
+
+Prospect: Less time on data entry, automatic updates, and reliable forecasts to share with upper management.
+
+Rep: That sounds impactful. What's your budget for a CRM solution?
+
+Prospect: We have around $15,000 this quarter, but we need to demonstrate value first.
+
+Rep: Do you currently use any integrations that are critical for your sales process?
+
+Prospect: Yes, we rely on email and our project management tool. 
+
+Rep: Our CRM integrates seamlessly with both. Any concerns about switching?
+
+Prospect: Just the time it takes to implement.
+
+Rep: We can run a phased rollout over six weeks. How about a demo next week to show the potential?
+
+Prospect: That works. Let’s do it.
+
+Rep: I’ll send a calendar invite and prepare a demo tailored to your needs. Next step: follow up after the demo.

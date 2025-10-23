@@ -1,0 +1,15 @@
+Rep: Thanks for making time today. What challenges are you facing with your current CRM?  
+Prospect: Our team struggles with tracking leads efficiently, and our current system feels outdated.  
+Rep: I understand. How do you currently manage lead assignments and follow-ups?  
+Prospect: It’s mostly manual, and we miss a lot of opportunities.  
+Rep: If we could automate lead assignments and provide better reporting, how would that impact your sales?  
+Prospect: It would boost our conversion rates significantly.  
+Rep: Are there specific features you wish your current CRM had?  
+Prospect: Better integration with our marketing tools and mobile access for the team.  
+Rep: We offer robust integrations and a mobile app. What’s your budget for upgrading?  
+Prospect: We have around $10,000 set aside for this quarter.  
+Rep: We can definitely work within that. Any concerns about switching systems?  
+Prospect: Just the learning curve for the team.  
+Rep: We provide comprehensive training and onboarding. Would a demo next week work for you?  
+Prospect: Yes, let’s schedule it for Wednesday.  
+Rep: Great! I’ll send the invite and an agenda. Next step: confirm team availability for the demo.

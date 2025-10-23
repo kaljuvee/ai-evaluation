@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with lead tracking and reporting. It’s too manual and time-consuming.  
+Rep: That’s frustrating. What specific features are you looking for to improve that?  
+Prospect: Automated lead scoring and better analytics would help us target our efforts.  
+Rep: Understood. What timeframe are you considering for a new solution?  
+Prospect: We’d like to implement something within the next quarter.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget of about $15,000 for this year.  
+Rep: Noted. How does your current CRM compare with others you've looked at?  
+Prospect: We've considered a couple, but they don’t offer the customization we need.  
+Rep: Our CRM offers robust customization and integration with tools you already use. Any concerns?  
+Prospect: Migration risks. We can't afford downtime.  
+Rep: We can run a phased rollout. How about a pilot with your sales team next month?  
+Prospect: That sounds promising. Let’s set that up.  
+Rep: I’ll send over a pilot plan and schedule a follow-up for next week.

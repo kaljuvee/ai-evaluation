@@ -1,0 +1,15 @@
+Rep: Thanks for speaking with me today. What led you to explore CRM solutions at this time?  
+Prospect: We're struggling with tracking leads and managing our pipeline effectively.  
+Rep: I understand. Can you describe your current process for managing leads?  
+Prospect: It’s mostly manual; we’re using spreadsheets and email, so it’s really inefficient.  
+Rep: That sounds challenging. What would a successful CRM implementation look like for you?  
+Prospect: Streamlined lead tracking and better visibility for my team.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget set for Q2, but it’s tight.  
+Rep: Understood. Are you currently evaluating any competitors?  
+Prospect: Yes, we've looked at Salesforce and HubSpot, but I’m concerned about their complexity.  
+Rep: Our CRM is designed for ease of use and quick adoption. Would a demo help clarify?  
+Prospect: A demo would be great, but I need to see how it integrates with our current tools.  
+Rep: We can schedule a demo next week and cover integrations. Does Thursday work for you?  
+Prospect: Yes, let’s do that.  
+Rep: I’ll send a calendar invite and gather your integration needs beforehand.

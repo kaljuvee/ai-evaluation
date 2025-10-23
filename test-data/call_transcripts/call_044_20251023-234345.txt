@@ -1,0 +1,29 @@
+Rep: Thanks for connecting today! What’s driving your search for a new CRM solution?
+
+Prospect: Our current system is too clunky and isn’t syncing well with our marketing tools.
+
+Rep: I see. How are you currently managing leads and sales tracking?
+
+Prospect: It’s mostly manual, and we’re missing follow-ups. It’s frustrating.
+
+Rep: Understood. What would an ideal CRM help you achieve in the next quarter?
+
+Prospect: Seamless integration with our marketing platform and better sales visibility. 
+
+Rep: Any budget constraints I should keep in mind?
+
+Prospect: We have a budget of $20,000 for this year, but we need to see clear ROI.
+
+Rep: That’s helpful. Have you evaluated any competitors?
+
+Prospect: We looked at Salesforce but found it too expensive.
+
+Rep: Our solution offers robust features at a fraction of the cost. Any hesitations about switching?
+
+Prospect: Data migration and training are my main concerns.
+
+Rep: We offer dedicated support for migration and training. Would a pilot in one department work for you?
+
+Prospect: Yes, let’s start there. 
+
+Rep: I’ll send over a proposal and schedule a follow-up next week.

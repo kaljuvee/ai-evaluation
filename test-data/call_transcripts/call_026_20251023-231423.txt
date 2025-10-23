@@ -1,0 +1,15 @@
+Rep: Thanks for taking the time today. What prompted your interest in a new CRM solution?  
+Prospect: Our current system is too clunky, and our sales team is frustrated. We need something more user-friendly.  
+Rep: I understand. What specific features are you looking for to improve their experience?  
+Prospect: Integration with our marketing tools and better reporting capabilities.  
+Rep: That makes sense. What does success look like for you in the first few months?  
+Prospect: Increased adoption rates and more sales insights for strategy adjustments.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget limit, but we’re willing to invest if we see value.  
+Rep: What’s your timeline for implementation?  
+Prospect: We want to have something in place by Q2.  
+Rep: We can offer a phased rollout with our CRM that integrates seamlessly with your existing tools. Any concerns about switching?  
+Prospect: Just the learning curve for the team.  
+Rep: We provide training and support to ease that transition. How about we schedule a demo next week?  
+Prospect: Sounds good. Let’s do Tuesday.  
+Rep: Great! I’ll send a calendar invite and demo details.

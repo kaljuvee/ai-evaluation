@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What led you to explore CRM solutions now?  
+Prospect: Our current system is too clunky, and we’re missing sales targets.  
+Rep: I understand. Can you share which features are causing the most frustration?  
+Prospect: Mainly lead management and reporting. It’s hard to track opportunities effectively.  
+Rep: That’s a common pain point. What would a successful solution look like for your team?  
+Prospect: Intuitive dashboards and automated follow-ups would help us close more deals.  
+Rep: Are there specific integrations you need with other tools?  
+Prospect: Yes, we rely heavily on our email marketing platform and analytics tools.  
+Rep: How does your budget look for this quarter?  
+Prospect: We have some flexibility, but it needs to be under $10K.  
+Rep: We can provide a tailored solution within that range. Any concerns we should address?  
+Prospect: Just the timeline for implementation; we need it up and running quickly.  
+Rep: We can have you set up in four weeks. How about a demo next Tuesday?  
+Prospect: That sounds good. Let’s include my team for feedback.  
+Rep: I’ll send a calendar invite and a demo agenda. Next step is to prepare a tailored proposal.

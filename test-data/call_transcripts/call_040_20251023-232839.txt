@@ -1,0 +1,15 @@
+Rep: Thanks for your time today. What made you explore CRM solutions now?  
+Prospect: We’re struggling with tracking leads and managing our sales pipeline effectively.  
+Rep: I understand. What specific challenges are you facing with your current system?  
+Prospect: It’s outdated and lacks integration with our marketing tools, causing data silos.  
+Rep: If you could improve lead tracking and pipeline visibility, what would that do for your team?  
+Prospect: It would help us close deals faster and improve forecasting accuracy.  
+Rep: What’s your timeline for implementing a new solution?  
+Prospect: We’d like to have something in place within the next quarter.  
+Rep: Do you have a budget in mind?  
+Prospect: We’re looking at around $20,000.  
+Rep: Our solution starts at $15,000 and includes full integration with major marketing platforms. Any concerns?  
+Prospect: Just the learning curve for my team.  
+Rep: We offer dedicated training and support. How about we schedule a demo next week?  
+Prospect: Sounds good. Let’s do Wednesday.  
+Rep: I’ll send a calendar invite and prepare a demo tailored to your needs.

@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM?  
+Prospect: We're struggling with lead tracking and reporting. It’s hard to get accurate forecasts.  
+Rep: I see. What specific features are you looking for to improve tracking?  
+Prospect: Automated lead scoring and better integration with our email platform would help.  
+Rep: Got it. What would a successful outcome look like for your team in three months?  
+Prospect: Streamlined communication and at least a 20% increase in conversion rates.  
+Rep: Are there budget constraints we should consider?  
+Prospect: We have some flexibility, but I need to justify the investment to the CFO.  
+Rep: Understood. Have you looked at other CRM solutions?  
+Prospect: Yes, we’ve checked out HubSpot, but it seemed limited for our needs.  
+Rep: Our CRM offers extensive customization and robust analytics. Would a demo help to illustrate this?  
+Prospect: A demo would be great, but I want to ensure it integrates well with our existing tools.  
+Rep: We can focus on integration during the demo. Let’s schedule it for next Thursday.  
+Prospect: Sounds good. I’ll gather my team for feedback.  
+Rep: I’ll send a calendar invite and an agenda. Next step: prepare for the demo!

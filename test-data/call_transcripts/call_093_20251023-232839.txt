@@ -1,0 +1,13 @@
+Rep: Thanks for taking the call today! What made you interested in upgrading your CRM now?  
+Prospect: We're looking to streamline our sales process; the current system is too clunky.  
+Rep: I understand. What specific features are you hoping to improve?  
+Prospect: We need better lead tracking and reporting capabilities. The current setup is just not cutting it.  
+Rep: Got it. What would success look like for your sales team in the next quarter?  
+Prospect: If we could increase our lead conversion rate by 20%, that’d be huge.  
+Rep: That’s a solid goal. Do you have a budget in mind for this upgrade?  
+Prospect: We're looking at $10,000 max for this quarter.  
+Rep: And are there any competitors you’re considering?  
+Prospect: We've looked at HubSpot and Salesforce, but they seem pricey.  
+Rep: Our solution starts at $8,500 and includes advanced reporting. Would you like a demo?  
+Prospect: Yes, that sounds good. Let’s schedule it for next Thursday.  
+Rep: Perfect! I’ll send a calendar invite and a few resources. Next step: confirm the demo time.

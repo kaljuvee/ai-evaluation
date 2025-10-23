@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What’s currently driving your interest in a new CRM solution?  
+Prospect: Our team is struggling with tracking leads and managing customer interactions effectively.  
+Rep: I understand. What tools are you using now, and what are the pain points?  
+Prospect: We’re using spreadsheets and an outdated CRM. It’s cumbersome and lacks automation.  
+Rep: Got it. What specific features are most important for you?  
+Prospect: We need better reporting, lead scoring, and integration with our marketing tools.  
+Rep: That makes sense. What would success look like in the first three months?  
+Prospect: Increased lead conversion rates and improved team collaboration.  
+Rep: Any constraints on budget or timeline?  
+Prospect: We have a budget allocated this quarter, but we need an easy transition.  
+Rep: We could start with a pilot focusing on lead tracking. Would you be open to that?  
+Prospect: Yes, that sounds good.  
+Rep: Great! I’ll send over a pilot proposal and set up a follow-up for next week.

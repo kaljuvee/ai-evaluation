@@ -1,0 +1,25 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM?
+
+Prospect: We're struggling with lead tracking and data silos. It's hard to get a clear view of our pipeline.
+
+Rep: I see. How are you currently managing your sales processes?
+
+Prospect: Mostly through spreadsheets and manual entry, which is time-consuming and prone to errors.
+
+Rep: If we could streamline your lead management and provide real-time insights, what would that help you achieve?
+
+Prospect: We'd close deals faster and improve collaboration among teams.
+
+Rep: Do you have any budget constraints for a new CRM solution?
+
+Prospect: We allocated some funds, but I need to justify the ROI to our CFO.
+
+Rep: Understood. How does your team currently evaluate CRM options?
+
+Prospect: We typically compare features and ask for demos. Our last vendor didn’t meet our integration needs.
+
+Rep: Our CRM offers seamless integration with tools like HubSpot and Salesforce. Would a demo next week work for you?
+
+Prospect: Yes, let’s do that. 
+
+Rep: I’ll send a calendar invite for the demo. Next step: gather your team’s requirements.

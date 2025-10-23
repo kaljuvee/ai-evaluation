@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with visibility into the sales pipeline. It's hard to track leads and forecasts.  
+Rep: I understand. Which specific features do you think are lacking?  
+Prospect: The reporting tools are outdated, and our team spends too much time on data entry.  
+Rep: That’s a common pain point. If we could streamline data entry and provide real-time insights, what would that mean for your team?  
+Prospect: It would definitely help us close deals faster and improve team morale.  
+Rep: Budget considerations aside, do you have a timeline for implementing a new solution?  
+Prospect: We’re hoping to have something in place by Q2, but we need to see ROI projections first.  
+Rep: Our CRM typically shows a 20% increase in sales efficiency within the first three months. Any concerns about migration?  
+Prospect: Just the usual worries about downtime and training.  
+Rep: We can offer a phased rollout with training resources. How about a demo next week?  
+Prospect: That sounds good. Let’s schedule it for Thursday.  
+Rep: Great! I’ll send you a calendar invite and demo agenda.

@@ -1,5 +1,0 @@
-langfuse
-langchain
-langchain-openai
-python-dotenv
-

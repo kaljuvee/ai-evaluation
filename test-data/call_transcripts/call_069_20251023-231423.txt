@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: Our current system isn’t flexible enough, and we’re losing leads due to poor follow-up.  
+Rep: I see. Can you tell me about your current follow-up process?  
+Prospect: It's mostly manual; sales reps miss reminders, leading to lost opportunities.  
+Rep: Understood. What would an ideal follow-up process look like for your team?  
+Prospect: Automated reminders and a clear view of lead status would be great.  
+Rep: That’s definitely something we can help with. What’s your budget for CRM this quarter?  
+Prospect: We’re looking at around $20,000, but it needs to show ROI quickly.  
+Rep: Absolutely. Are there any specific features you need that you’re not getting now?  
+Prospect: Integration with our marketing tools is a must. We’re considering HubSpot too.  
+Rep: Our integration capabilities are strong. How about a demo next week to show you the features?  
+Prospect: Sounds good. Let’s do Wednesday at 2 PM.  
+Rep: Perfect! I’ll send a calendar invite and demo agenda.

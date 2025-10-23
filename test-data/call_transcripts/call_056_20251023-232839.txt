@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you currently facing with your sales processes?  
+Prospect: We struggle with tracking leads and managing customer interactions effectively. Our current system feels outdated.  
+Rep: I understand. What specific features are you looking for in a CRM?  
+Prospect: We need better reporting and automation for follow-ups.  
+Rep: Great. If we could automate your follow-ups and provide real-time insights, how would that impact your team’s productivity?  
+Prospect: It would save us hours weekly and increase our close rates.  
+Rep: That’s a solid outcome. Are there any concerns about budget or integration with existing tools?  
+Prospect: We're tight on budget this quarter and need a solution that integrates with our email platform.  
+Rep: Our CRM integrates seamlessly with most email tools. Any hesitation regarding switching from your current system?  
+Prospect: Just the usual worry about data migration.  
+Rep: We can support a phased migration to minimize risks. How about a demo next week?  
+Prospect: Yes, that works. Let’s schedule it for Thursday.  
+Rep: I’ll send a calendar invite and follow up with a demo agenda. 

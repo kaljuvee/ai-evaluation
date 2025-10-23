@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data silos and lack of integration with our marketing tools.  
+Rep: That sounds frustrating. How are these issues impacting your sales team's productivity?  
+Prospect: It leads to missed opportunities and inconsistent customer communication.  
+Rep: I understand. What are your top priorities for a new CRM?  
+Prospect: We need better collaboration features and automation for follow-ups.  
+Rep: Got it. What does success look like for you in the next three months?  
+Prospect: Improved lead tracking and a 20% increase in conversion rates.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget set, but we’re looking for a strong ROI.  
+Rep: Our solution integrates seamlessly with most marketing platforms, unlike competitors. Any concerns about the transition?  
+Prospect: Just the integration time.  
+Rep: We can implement a pilot in four weeks. Does that work?  
+Prospect: Yes, let’s set that up.  
+Rep: I’ll send over a plan and schedule a kickoff for next week.

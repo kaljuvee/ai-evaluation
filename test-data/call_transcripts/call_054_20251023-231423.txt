@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM system?  
+Prospect: We struggle with tracking leads and managing our sales pipeline effectively.  
+Rep: That’s common. Can you share how your team currently manages leads?  
+Prospect: We use spreadsheets, but it’s cumbersome and leads fall through the cracks.  
+Rep: How would a more organized approach impact your sales process?  
+Prospect: It would help us close deals faster and improve team collaboration.  
+Rep: What timeline do you have in mind for implementing a new solution?  
+Prospect: We’d like to have it in place by Q2, but budget is tight.  
+Rep: Understood. Is there a specific budget range you’re considering?  
+Prospect: Ideally under $10,000. We’ve looked at a few competitors, but they seem pricey.  
+Rep: Our solution is competitive and starts at $8,500, including onboarding. Would a demo next week work?  
+Prospect: That sounds good. Let’s include my sales manager.  
+Rep: Perfect! I’ll send a calendar invite for Tuesday and a demo outline.

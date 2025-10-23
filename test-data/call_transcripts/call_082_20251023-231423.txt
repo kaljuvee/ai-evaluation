@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM system?  
+Prospect: Our data is scattered, and our sales team struggles with tracking leads effectively.  
+Rep: That’s common. What features are you missing that would make a big difference?  
+Prospect: We need better integration with our email and automation for follow-ups.  
+Rep: Understood. What would success look like for your team in the next quarter?  
+Prospect: Streamlined lead tracking and improved response times.  
+Rep: Are there any budget constraints we should be aware of?  
+Prospect: We have a budget set for this quarter, but we can't overspend.  
+Rep: Our solution typically starts at $50 per user per month, which includes full support. Does that fit your expectations?  
+Prospect: Sounds reasonable, but we’re also looking at a competitor that offers lower pricing.  
+Rep: We provide more robust integrations and a dedicated success manager. Would a pilot help you compare?  
+Prospect: Yes, a pilot would be helpful. Let’s schedule it for next week.  
+Rep: Great! I’ll send a proposal and set up a kickoff for Monday.

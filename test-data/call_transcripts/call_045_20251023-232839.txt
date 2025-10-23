@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with lead tracking and pipeline visibility. It’s hard to get real-time data.  
+Rep: I see. What tools are you using now, and how do they fall short?  
+Prospect: We use a basic CRM, but it lacks integration with our marketing tools.  
+Rep: Understood. What would an ideal solution look like for your sales team?  
+Prospect: Seamless integration and better forecasting tools would be key.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a modest budget for Q4, but we need to see ROI quickly.  
+Rep: Our CRM integrates smoothly with many marketing platforms. Would a pilot with your sales team be feasible?  
+Prospect: Yes, but I’m concerned about the migration process.  
+Rep: We can ensure a smooth transition with minimal downtime. How about a pilot in two weeks?  
+Prospect: That sounds good. Let’s involve our marketing manager.  
+Rep: I’ll send over the pilot proposal and set a kickoff for next week.

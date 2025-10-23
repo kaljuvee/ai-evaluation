@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM solution?  
+Prospect: We’re struggling with tracking leads and managing our sales pipeline effectively.  
+Rep: That’s common. What specific features are you missing?  
+Prospect: We need better reporting and automation for follow-ups.  
+Rep: Understood. If we could simplify your reporting and automate 70% of your follow-ups, how would that impact your team?  
+Prospect: It would free up time, allowing us to focus on closing deals.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility, but we need to see ROI quickly.  
+Rep: Do you currently use any other tools for sales tracking?  
+Prospect: Yes, we use a competitor, but it’s not meeting our needs.  
+Rep: Our CRM integrates with multiple platforms and offers customizable dashboards. Would a trial help you assess that?  
+Prospect: A trial sounds good, but I need to ensure it won't disrupt our current workflow.  
+Rep: We can set up a pilot in a week, focusing on your top two pain points. Does that work?  
+Prospect: Yes, let’s do that.  
+Rep: I’ll send over the pilot plan and schedule a follow-up next week.

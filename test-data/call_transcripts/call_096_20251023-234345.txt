@@ -1,0 +1,15 @@
+Rep: Thanks for taking the time to chat today. What made you interested in a new CRM solution?  
+Prospect: Our current system is outdated and doesn't integrate well with our other tools.  
+Rep: I see. What specific integrations are you looking for?  
+Prospect: We need seamless connections with our email marketing and sales automation platforms.  
+Rep: Understood. What would success look like for your team in the next few months?  
+Prospect: A unified view of customer interactions and improved sales tracking.  
+Rep: Do you have a budget range in mind for this project?  
+Prospect: We’re looking to spend around $15,000 this quarter.  
+Rep: That’s helpful. Have you evaluated any competitors?  
+Prospect: We’ve looked at Salesforce and HubSpot, but they seem pricey.  
+Rep: Our solution offers competitive pricing and strong integrations. Any concerns that might hold you back?  
+Prospect: Just the implementation time; we can't afford much downtime.  
+Rep: We can phase the rollout to minimize disruption. How about a demo next week?  
+Prospect: Sounds good! Let’s set that up.  
+Rep: I’ll send a calendar invite for the demo and follow up with an agenda.

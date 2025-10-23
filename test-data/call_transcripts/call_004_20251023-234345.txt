@@ -1,0 +1,15 @@
+Rep: Thanks for taking my call today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data integration across our sales tools; it’s slowing us down.  
+Rep: I understand. How many systems are you currently using?  
+Prospect: At least five, including email, lead tracking, and customer service.  
+Rep: That’s a lot. What would you like to see improved in terms of sales processes?  
+Prospect: More streamlined communication and better visibility into leads’ status.  
+Rep: If we could consolidate those tools and improve lead tracking, how would that impact your team?  
+Prospect: It would save us time and help close deals faster.  
+Rep: What’s your budget for a new CRM solution?  
+Prospect: We have around $10,000 for this quarter.  
+Rep: We can offer a solution within that budget. Any concerns about switching from your current system?  
+Prospect: I’m worried about data migration and training.  
+Rep: We provide dedicated support for both. How about a demo next week to show you the migration process?  
+Prospect: That sounds good. Let’s do Tuesday.  
+Rep: Great! I’ll send a calendar invite and follow up with demo details.

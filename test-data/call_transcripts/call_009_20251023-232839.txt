@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in updating your CRM system?  
+Prospect: Our current system isn’t scaling with our growth, and it’s affecting our sales team's efficiency.  
+Rep: I see. Can you share specific challenges your team faces with the current CRM?  
+Prospect: Data entry is cumbersome, and we struggle with tracking leads effectively.  
+Rep: Understood. What would be a game-changer for you in a new system?  
+Prospect: Automation and real-time analytics would be huge for us.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have about $20,000 allocated this quarter.  
+Rep: Great, we have a tier that fits that. How do you currently evaluate CRM options?  
+Prospect: We usually compare features and user reviews.  
+Rep: Our platform is known for its intuitive interface and robust automation features. Any concerns about switching?  
+Prospect: Data migration and training are my biggest worries.  
+Rep: We provide dedicated support for migration and training. How about we set up a demo next week?  
+Prospect: Sounds good. Let’s do it Wednesday.  
+Rep: I’ll send an invite and a checklist of what we’ll cover. Looking forward to it!

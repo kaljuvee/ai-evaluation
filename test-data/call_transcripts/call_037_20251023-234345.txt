@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with user adoption and data accuracy. It’s causing us to miss sales targets.  
+Rep: I see. How are your teams currently tracking customer interactions?  
+Prospect: Mostly through spreadsheets and emails, which leads to inconsistencies.  
+Rep: If we could improve data accuracy and streamline communication, what would that mean for your sales process?  
+Prospect: It would help us close deals faster and improve forecasting.  
+Rep: Are there any specific features you're looking for in a new CRM?  
+Prospect: We need better reporting and integration with our marketing tools.  
+Rep: Understood. What’s your budget for this project?  
+Prospect: We have about $15,000 allocated, but it needs to show clear ROI.  
+Rep: Our solution starts at $12,000 with robust reporting and integration capabilities. Any concerns before we proceed?  
+Prospect: Just the implementation timeline.  
+Rep: We can set up a pilot in two weeks. How does that sound?  
+Prospect: That works. Let’s plan for the kickoff next Wednesday.  
+Rep: I’ll send over the details and calendar invite. Looking forward to it!

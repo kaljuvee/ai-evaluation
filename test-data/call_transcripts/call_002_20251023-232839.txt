@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM?  
+Prospect: We’re struggling with data management and tracking sales performance effectively.  
+Rep: I see. How are you currently tracking your sales team’s activities?  
+Prospect: Mostly spreadsheets, which are cumbersome and prone to errors.  
+Rep: If we could streamline your data in real-time and provide better insights, how would that impact your team?  
+Prospect: It would definitely improve our forecasting and help us hit targets more consistently.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a set budget for this quarter, but I need to justify the ROI to the CFO.  
+Rep: Understood. How does your team currently compare CRM solutions?  
+Prospect: We’ve looked at a couple, but they seem more focused on small businesses.  
+Rep: Our CRM is designed for scalability. What’s your timeline for implementation?  
+Prospect: Ideally within the next month.  
+Rep: Let’s schedule a demo next week to show how we can meet your needs. Does Thursday work?  
+Prospect: Yes, that works for me.  
+Rep: Great! I’ll send a calendar invite and follow up with some case studies.

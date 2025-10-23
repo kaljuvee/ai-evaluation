@@ -1,0 +1,14 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM?  
+Prospect: We struggle with lead tracking and reporting. It’s hard to get a clear view of our pipeline.  
+Rep: I understand. What specific features are you hoping to improve?  
+Prospect: We need better analytics and integration with our marketing tools.  
+Rep: If we could provide real-time insights and seamless integration, what would that change for your team?  
+Prospect: It would help us prioritize leads and fine-tune our outreach, boosting our close rates.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have $20,000 set aside for this quarter.  
+Rep: Great! Are you evaluating any competitors?  
+Prospect: Yes, we’re looking at Salesforce and HubSpot.  
+Rep: Our pricing is competitive, and we offer tailored onboarding. How about a demo next week to explore specifics?  
+Prospect: That sounds good, but I need to see how it integrates with our current tools.  
+Rep: We can show you that during the demo. I’ll send a calendar invite for Wednesday.  
+Prospect: Perfect, looking forward to it!

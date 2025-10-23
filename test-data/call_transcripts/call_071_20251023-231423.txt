@@ -1,0 +1,13 @@
+Rep: Hi, thanks for connecting today. What prompted your interest in a new CRM solution?  
+Prospect: We're struggling to manage leads effectively and our current system feels outdated.  
+Rep: I understand. What specific challenges are you facing with lead management?  
+Prospect: Our sales reps spend too much time on data entry and tracking interactions manually.  
+Rep: That sounds frustrating. What would a successful CRM look like for your team?  
+Prospect: Automation of data entry, better tracking of customer interactions, and easier reporting.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget, but we’re also looking at competitors like HubSpot.  
+Rep: Our automation features can save reps hours weekly, which can justify the investment. Would a pilot help you see the value?  
+Prospect: Yes, but I’m concerned about the learning curve.  
+Rep: We offer comprehensive onboarding and support. How about we schedule a demo next week to show you our interface?  
+Prospect: That works for me. Let’s do it Tuesday.  
+Rep: Great! I’ll send a calendar invite and demo details.

@@ -1,0 +1,13 @@
+Rep: Hi there! Thanks for meeting today. What challenges are you currently facing with your sales processes?  
+Prospect: We’re struggling with pipeline visibility and lead management. It’s hard to track where everything stands.  
+Rep: That’s a common issue. What tools are you using now?  
+Prospect: We’re still using spreadsheets and an outdated CRM that doesn’t integrate well.  
+Rep: I see. If you could streamline your lead tracking and improve forecasting, what would that mean for your team?  
+Prospect: It would save us time and help us close deals faster.  
+Rep: Any specific features you’re looking for, like automation or reporting?  
+Prospect: Automation would be huge, especially for follow-ups. Reporting needs to be real-time.  
+Rep: Our CRM offers both. What’s your budget for this quarter?  
+Prospect: We have about $15,000 allocated, but I need to justify it to the CFO.  
+Rep: Understandable. We can start with a pilot program. How does a two-month trial sound?  
+Prospect: That could work. Let’s include my sales manager in that discussion.  
+Rep: I’ll send over the pilot details and schedule a follow-up next week.

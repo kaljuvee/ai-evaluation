@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What prompted you to explore new CRM solutions?  
+Prospect: We’re struggling with lead tracking and customer follow-ups. Our current system is too cumbersome.  
+Rep: I understand. Can you share which features you find most lacking?  
+Prospect: Reporting is clunky, and integration with our marketing tools is limited.  
+Rep: Got it. What would a successful CRM implementation look like for you?  
+Prospect: Automated lead scoring and seamless integration with our email campaigns.  
+Rep: Any budget constraints we should keep in mind?  
+Prospect: We have a budget set for this quarter, but we’re cautious about costs.  
+Rep: I hear you. Our solution is competitive at $50 per user per month. How does that fit with your expectations?  
+Prospect: That’s in line with what we were considering. What about customer support?  
+Rep: We offer 24/7 support and a dedicated success manager. Would that help alleviate concerns?  
+Prospect: Definitely. What are the next steps?  
+Rep: Let’s schedule a demo next week to dive deeper into features. How does Tuesday sound?  
+Prospect: That works for me. Looking forward to it!  
+Rep: Great! I’ll send a calendar invite.

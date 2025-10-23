@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your search for a new CRM solution?  
+Prospect: Our current system isn’t scaling with our sales team, and we’re losing leads.  
+Rep: I understand. What specific pain points are you experiencing?  
+Prospect: Too many manual processes and poor visibility into the pipeline.  
+Rep: If we could automate those processes and provide real-time insights, what would that mean for your team?  
+Prospect: It would boost productivity and help us close deals faster.  
+Rep: Are there any budget constraints we should be aware of?  
+Prospect: We have a budget set, but I need to justify ROI to the CFO.  
+Rep: Understood. How do you currently track ROI on sales tools?  
+Prospect: We use spreadsheets, but it’s cumbersome and outdated.  
+Rep: Our CRM integrates analytics to streamline that. Any concerns about switching systems?  
+Prospect: Just the time it takes to train the team.  
+Rep: We offer a dedicated onboarding program. How about a demo next week?  
+Prospect: Sounds good. Let’s do Wednesday at 2 PM.  
+Rep: Perfect! I’ll send a calendar invite and a demo agenda.

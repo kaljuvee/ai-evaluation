@@ -1,0 +1,15 @@
+Rep: Thanks for taking the time today. What made you interested in a new CRM solution?  
+Prospect: Our current system is outdated and lacks integration with our other tools.  
+Rep: I see. Which integrations are causing the most frustration?  
+Prospect: Primarily our marketing automation and customer support platforms.  
+Rep: If we could streamline those integrations and improve your sales reporting, what would that mean for your team?  
+Prospect: It would enhance our lead follow-up and improve conversion rates significantly.  
+Rep: Are there budget constraints we should consider?  
+Prospect: We have a budget in place, but it’s tight.  
+Rep: Understood. If we can demonstrate a solid ROI, would you be willing to adjust?  
+Prospect: Possibly. I’d need to see clear benefits.  
+Rep: Our CRM offers customizable dashboards and seamless integrations. Any concerns before we move forward?  
+Prospect: Just the implementation timeline.  
+Rep: We can start with a 30-day trial. How about a demo next week to show you the integration capabilities?  
+Prospect: Sounds good. Let’s schedule that.  
+Rep: I’ll send a calendar invite for the demo. Looking forward to it!

@@ -1,0 +1,14 @@
+Rep: Thanks for connecting today! What drove you to explore new CRM solutions right now?  
+Prospect: We're looking to streamline our sales process; our current system feels outdated.  
+Rep: I understand. What specific challenges are you facing with your current CRM?  
+Prospect: We struggle with tracking leads and have poor integration with our marketing tools.  
+Rep: Got it. What would a successful CRM look like for your team in three months?  
+Prospect: Better lead tracking, automated follow-ups, and easy reporting for management.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget set, but we need to show clear ROI to upper management.  
+Rep: Understood. How do you currently evaluate CRM vendors?  
+Prospect: We usually compare features and pricing, but user experience is key for us.  
+Rep: Our platform offers a free trial to assess usability. Would that alleviate some concerns?  
+Prospect: Yes, a trial would help. Let’s discuss how to implement it.  
+Rep: Great! I’ll send over the trial details and schedule a follow-up next week. Sound good?  
+Prospect: Perfect, looking forward to it.

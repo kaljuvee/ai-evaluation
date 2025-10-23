@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM solution?  
+Prospect: Our current system is too clunky and doesn’t integrate well with our marketing tools.  
+Rep: That’s frustrating. What specific integrations are you looking for?  
+Prospect: We need seamless syncing with our email marketing platform and lead scoring.  
+Rep: Understood. What would a successful CRM look like for your team in three months?  
+Prospect: We want real-time insights on leads and automated follow-ups.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget cap of $15,000 for the year.  
+Rep: Competitive solutions can be pricey. How do you feel about our pricing structure?  
+Prospect: I’ve seen your pricing, but I’m comparing it with a few others.  
+Rep: We offer more robust features for the price. Would a demo help clarify?  
+Prospect: Yes, a demo would be great.  
+Rep: Let’s schedule one for Thursday. I’ll send a calendar invite. Next step: gather your team's feedback post-demo.

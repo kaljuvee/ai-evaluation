@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with data silos and a lack of visibility into our sales pipeline.  
+Rep: That’s a common issue. How are these challenges impacting your sales team’s performance?  
+Prospect: It’s slowing down our response times and making it hard to forecast accurately.  
+Rep: If we could streamline your pipeline and provide real-time insights, what kind of improvements would you expect?  
+Prospect: Better conversions and clearer targets for our reps would be ideal.  
+Rep: What’s your budget for CRM solutions this quarter?  
+Prospect: We have around $15,000 set aside, but it needs to deliver quick ROI.  
+Rep: Understood. We typically see our clients achieve ROI within three months. Any concerns about switching from your current system?  
+Prospect: Migration risks and training are big worries for us.  
+Rep: We can offer a phased migration and comprehensive training. Does a pilot demo next week sound good?  
+Prospect: Yes, that works. Let’s include my team for feedback.  
+Rep: Great! I’ll send over the details and schedule for the demo. Next step: a follow-up call next Friday.

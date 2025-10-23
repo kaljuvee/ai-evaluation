@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM solution?  
+Prospect: We’re struggling with data silos and manual reporting. It’s slowing down our sales cycle.  
+Rep: I understand. How are your reps currently tracking their leads and opportunities?  
+Prospect: They use spreadsheets and emails, which leads to inconsistencies.  
+Rep: If you could streamline that process, what impact would it have on your team’s performance?  
+Prospect: We’d close deals faster and improve forecasting accuracy.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a cap this quarter, but we’re willing to invest if we see clear ROI.  
+Rep: We offer a predictive analytics feature that integrates seamlessly with existing tools. Any concerns about switching?  
+Prospect: Just the potential downtime during migration.  
+Rep: We can implement a phased rollout to minimize disruption. How about a pilot with your sales team next month?  
+Prospect: That sounds good. Let’s plan for that.  
+Rep: I’ll send over the proposal and schedule a kickoff call for next week.

@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and visibility across our sales team. It’s chaotic.  
+Rep: I see. What specific features are you missing that would help streamline this?  
+Prospect: We need better reporting and integration with our marketing tools.  
+Rep: Got it. What impact would improved visibility have on your team’s performance?  
+Prospect: It’d help us close deals faster and improve forecasting accuracy.  
+Rep: That sounds crucial. Are there any budget constraints we should consider?  
+Prospect: We have flexibility, but I need to justify the ROI to the CFO.  
+Rep: Understood. How does your current solution compare with what we offer?  
+Prospect: We’ve looked at a couple of options, but they seem too complicated.  
+Rep: Our platform is user-friendly and offers seamless integration. Would a trial help you assess it?  
+Prospect: Yes, a trial would be great. Let’s get it set up for next week.  
+Rep: I’ll send over the trial details and schedule a kickoff call for Monday.

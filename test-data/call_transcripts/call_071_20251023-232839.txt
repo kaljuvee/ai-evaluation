@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today! What’s driving your interest in a new CRM solution?  
+Prospect: We’re struggling with lead tracking and follow-ups. Our current system feels outdated.  
+Rep: I understand. Which features do you find most lacking?  
+Prospect: Custom reporting and automation. We need better insights into our sales funnel.  
+Rep: If we could improve your reporting capabilities and automate lead assignments, what would that mean for your team’s performance?  
+Prospect: It would save us time and help us close more deals.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility, but need to see ROI quickly.  
+Rep: I hear you. How do you currently measure ROI on your sales tools?  
+Prospect: We look at conversion rates and sales cycle length.  
+Rep: Our CRM can provide real-time analytics for that. Any concerns about switching from your current system?  
+Prospect: Just the migration process; I want to avoid disruptions.  
+Rep: We offer a phased migration. How about we start with a demo next week?  
+Prospect: Sounds good. Let’s set that up.  
+Rep: I’ll send over a calendar invite and a demo agenda. Next step: review your current system.

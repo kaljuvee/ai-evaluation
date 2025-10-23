@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead management and tracking sales performance efficiently.  
+Rep: I see. What specific features do you feel are missing?  
+Prospect: We need better automation for follow-ups and reporting. The manual input takes too much time.  
+Rep: Understood. If we could automate those processes, how would that impact your team's productivity?  
+Prospect: It would save us hours each week, allowing us to focus on closing deals.  
+Rep: What’s your budget for a new CRM solution?  
+Prospect: We have about $15,000 allocated for this quarter.  
+Rep: Great! How does that compare to your previous CRM costs?  
+Prospect: It's pretty similar, but we expect more value this time around.  
+Rep: Our solution is designed to increase efficiency and includes customizable reporting. Any concerns about switching?  
+Prospect: Just the learning curve for my team.  
+Rep: We offer training and support during onboarding. Can we schedule a demo next week?  
+Prospect: Yes, let’s do Tuesday at 2 PM.  
+Rep: Perfect! I’ll send a calendar invite. Next step: prepare a tailored demo for your team.

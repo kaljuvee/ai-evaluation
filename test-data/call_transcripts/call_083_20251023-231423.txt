@@ -1,0 +1,15 @@
+Rep: Thanks for your time today. What led you to explore CRM solutions right now?  
+Prospect: We're looking to streamline our sales process and improve lead tracking.  
+Rep: That makes sense. Can you share how you're currently managing leads?  
+Prospect: We’re using spreadsheets, but it’s not scalable and leads slip through the cracks.  
+Rep: I understand. What specific features would make a CRM valuable for your team?  
+Prospect: Automated follow-ups and integration with our email platform are key.  
+Rep: Great. What would success look like in the next quarter?  
+Prospect: Increased lead conversion rates and better visibility into sales activities.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget of $10,000 for this quarter.  
+Rep: Competitors often mention integration challenges. Is that a concern for you?  
+Prospect: Yes, especially with our existing tools.  
+Rep: Our CRM has seamless integrations. How about a demo next week to explore this?  
+Prospect: That sounds good. Let’s set it for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and prepare a tailored demo.

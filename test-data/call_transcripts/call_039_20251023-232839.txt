@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM solution?  
+Prospect: It's not user-friendly, and our sales team struggles to adopt it.  
+Rep: I understand. What specific features are they finding most difficult?  
+Prospect: The reporting tools are cumbersome, and we waste time on manual updates.  
+Rep: If we could streamline reporting and automate data entry, how would that change your team's performance?  
+Prospect: We could spend more time selling and less time on admin tasks.  
+Rep: That makes sense. What’s your budget for a new CRM?  
+Prospect: We're looking at around $15,000 for the year.  
+Rep: Our solution is priced competitively at $12,000 annually. How does that fit with your expectations?  
+Prospect: That sounds good, but I need to justify it to my CFO.  
+Rep: Would a pilot with key users help build that case? We can prove ROI in 30 days.  
+Prospect: Yes, that could work. Let’s set up a demo next week to discuss specifics.  
+Rep: I’ll arrange that and follow up with a calendar invite. Next step: confirm demo date.

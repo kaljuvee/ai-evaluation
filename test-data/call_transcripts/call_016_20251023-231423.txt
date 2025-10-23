@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and pipeline visibility. It's hard to keep everyone on the same page.  
+Rep: I understand. How are you currently managing lead assignments?  
+Prospect: It's mostly manual, and we miss opportunities because of miscommunication.  
+Rep: If we could automate lead assignments and improve visibility, how would that impact your sales team?  
+Prospect: It would definitely boost productivity and close rates.  
+Rep: What’s your budget allocation for a new CRM this quarter?  
+Prospect: We have about $20,000 set aside, but need to see ROI quickly.  
+Rep: Our solution starts at $15,000 with a proven 30% increase in sales within three months. Any concerns about switching?  
+Prospect: Just the potential downtime during the transition.  
+Rep: We can implement a phased rollout to minimize disruption. How about a demo next week?  
+Prospect: That works. Let’s set it up for Wednesday.  
+Rep: I’ll send a calendar invite and prepare a tailored demo for your team.

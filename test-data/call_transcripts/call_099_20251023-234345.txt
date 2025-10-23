@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What’s driving your interest in a new CRM solution?  
+Prospect: Our current system isn’t scaling with our growth. It’s slow and lacks integration.  
+Rep: I see. What specific integrations are you looking for?  
+Prospect: We need seamless connections with our marketing automation and support tools.  
+Rep: Understood. What would an ideal CRM help you achieve in the next 90 days?  
+Prospect: Improved lead tracking and better reporting to boost sales team performance.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget for this quarter, but it’s tight.  
+Rep: I can share how our solution is more cost-effective compared to Salesforce. Any concerns about switching?  
+Prospect: Just the learning curve for the team.  
+Rep: We offer onboarding support and training. Would a pilot with a key team member be beneficial?  
+Prospect: Yes, a pilot would help.  
+Rep: Great! I’ll send over a pilot plan and set up a follow-up for next week.

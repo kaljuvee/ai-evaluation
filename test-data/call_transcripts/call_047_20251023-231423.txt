@@ -1,0 +1,13 @@
+Rep: Thanks for speaking with me today. What challenges are you facing with your current CRM system?  
+Prospect: Our team's struggling with data accuracy and lack of integration with other tools.  
+Rep: I see. How does that impact your sales process?  
+Prospect: It slows down our lead follow-ups and leads to missed opportunities.  
+Rep: Understood. If we could improve data accuracy and integrate seamlessly, what would that mean for your team?  
+Prospect: It would definitely increase our conversion rates and save us time.  
+Rep: Any concerns about budget or timeline for a new solution?  
+Prospect: We have a budget, but we need it implemented by the end of Q2.  
+Rep: Are you considering any other CRM solutions?  
+Prospect: Yes, we’re looking at Salesforce and HubSpot.  
+Rep: Our CRM offers real-time data sync and customizable dashboards that can be set up quickly. Would a demo next week work for you?  
+Prospect: That sounds good. Let’s do it Tuesday.  
+Rep: Great! I’ll send over a calendar invite and a brief agenda for the demo. Next step: confirm attendees on your side.

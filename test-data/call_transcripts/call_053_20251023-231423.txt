@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and integration with our email platform.  
+Rep: That’s common. How do you currently manage your leads from initial contact to close?  
+Prospect: It's mostly manual, which slows us down and creates inconsistencies.  
+Rep: If we could automate lead tracking and improve accuracy, what would that mean for your team?  
+Prospect: It would definitely boost our conversion rates and save us time.  
+Rep: Any budget constraints we should keep in mind?  
+Prospect: We have some flexibility, but we’re looking for something under $15,000 annually.  
+Rep: Our solution starts at $12,000 with full integration capabilities. Are you considering other providers?  
+Prospect: Yes, a couple of others, but they lack the email integration.  
+Rep: We offer a seamless integration. Would you be open to a demo next week to see it in action?  
+Prospect: That sounds good. Let’s do Tuesday at 2 PM.  
+Rep: Great! I’ll send a calendar invite and agenda. Next step: review your current workflows.

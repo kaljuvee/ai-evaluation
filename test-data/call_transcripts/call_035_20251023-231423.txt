@@ -1,0 +1,25 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM?
+
+Prospect: We're struggling with data visibility and tracking leads effectively. It feels scattered.
+
+Rep: I hear you. What specific features are you missing that would help your sales team?
+
+Prospect: We need better reporting and integration with our email platform. It’s hard to keep everything aligned.
+
+Rep: Understood. If you had those capabilities, what would that improve for your team?
+
+Prospect: We could close deals faster and better nurture leads, ultimately increasing our revenue.
+
+Rep: Any budget constraints I should be aware of?
+
+Prospect: We have around $15,000 allocated for this quarter, but it needs to show ROI quickly.
+
+Rep: That’s reasonable. We typically see a 20% increase in sales productivity within three months. Any concerns about switching CRMs?
+
+Prospect: Just the learning curve. Our team is already busy.
+
+Rep: We offer comprehensive training and support during the transition. How about a demo next week?
+
+Prospect: That sounds good. Let’s schedule it for Thursday morning.
+
+Rep: Perfect. I’ll send a calendar invite and a demo agenda. Next step: prepare your team’s key questions for the demo.

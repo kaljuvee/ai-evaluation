@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What led you to explore CRM solutions at this time?  
+Prospect: We're struggling with tracking leads and managing client relationships more effectively.  
+Rep: I hear you. What’s the biggest challenge in your current process?  
+Prospect: Our data is scattered across spreadsheets, and it’s hard to get a unified view.  
+Rep: Understood. What key features are you looking for in a CRM?  
+Prospect: We need robust reporting and seamless integration with our email and calendar.  
+Rep: That makes sense. Any budget constraints I should be aware of?  
+Prospect: We have a budget of $15,000 for this quarter.  
+Rep: Great. Have you looked at other CRMs, or is this your first exploration?  
+Prospect: We’re considering HubSpot and Salesforce, but they seem pricey.  
+Rep: Our platform offers competitive pricing with similar features. Would a demo next week work for you?  
+Prospect: Yes, that sounds good. Can we include my sales manager as well?  
+Rep: Absolutely! I’ll set up a demo for Thursday and include both of you. 

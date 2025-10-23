@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you currently facing with your sales processes?  
+Prospect: We struggle with tracking leads and managing customer interactions effectively.  
+Rep: I see. What tools are you using now?  
+Prospect: We’re on spreadsheets and a basic CRM, but it’s not scalable.  
+Rep: Understood. What would a successful CRM implementation look like for you in the next quarter?  
+Prospect: Improved lead tracking and automated follow-ups would be ideal.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget of $10,000 for this quarter, but we need to see a clear ROI.  
+Rep: Competitively, how do you think we stack up against Salesforce?  
+Prospect: I like your user interface, but Salesforce has deeper integrations.  
+Rep: We offer custom integrations as well, which could bridge that gap. Any concerns holding you back?  
+Prospect: Just the transition process; we can’t afford downtime.  
+Rep: We can do a phased rollout over four weeks. Does that work?  
+Prospect: Yes, let’s plan a demo next week to see features in action.  
+Rep: I’ll send over the invite and outline next steps. Looking forward to it!

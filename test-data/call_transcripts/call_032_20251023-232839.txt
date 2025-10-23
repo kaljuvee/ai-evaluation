@@ -1,0 +1,13 @@
+Rep: Thanks for your time today, I appreciate it. What motivated you to explore a new CRM solution now?  
+Prospect: We're struggling with lead tracking and communication between sales and marketing.  
+Rep: Understood. Can you share more about the current processes causing frustration?  
+Prospect: Right now, we use several tools that don’t integrate well, leading to missed opportunities.  
+Rep: If we could streamline those processes and enhance lead visibility, what would that mean for your team?  
+Prospect: It would boost conversion rates and improve collaboration significantly.  
+Rep: Are there specific features or integrations you're particularly interested in?  
+Prospect: Yes, I need strong reporting and seamless integration with our email system.  
+Rep: We offer robust reporting tools and can integrate with your existing email. Any concerns about budget or timelines?  
+Prospect: We have a budget set for next quarter, but I'm worried about the transition period.  
+Rep: We can implement a phased rollout to minimize disruption. Would a pilot program help alleviate those concerns?  
+Prospect: That sounds promising. Let’s set up a pilot for next week.  
+Rep: Perfect. I’ll send over the details and schedule a follow-up for Thursday to discuss the pilot plan.

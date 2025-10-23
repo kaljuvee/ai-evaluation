@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you currently facing with your sales process?  
+Prospect: We're struggling with lead tracking and managing customer relationships, especially during high-volume periods.  
+Rep: I see. How do you currently manage your CRM?  
+Prospect: We use an outdated system that lacks automation features. It’s slowing us down.  
+Rep: Got it. What would an ideal CRM look like for your team?  
+Prospect: It should automate follow-ups and integrate with our email and calendar.  
+Rep: That’s definitely achievable. What’s your budget for a new CRM solution?  
+Prospect: We have about $30,000 allocated for this year, but we need to see a strong ROI.  
+Rep: Understandable. How does your team currently measure ROI?  
+Prospect: We look at conversion rates and customer retention.  
+Rep: Our CRM can provide detailed analytics to help with that. Any concerns about switching systems?  
+Prospect: Yes, data migration and training are my biggest worries.  
+Rep: We offer comprehensive support for migration and training. Would a pilot in one department be helpful?  
+Prospect: Yes, let’s start there.  
+Rep: I’ll send over a pilot plan and schedule a follow-up next week.

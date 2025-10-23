@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting; it's too manual and time-consuming.  
+Rep: I understand. What specific features would streamline your sales process?  
+Prospect: Automated lead scoring and better integration with our email platform would help.  
+Rep: Great. What would success look like for your team in the next quarter?  
+Prospect: If we could reduce lead response times by 50%, that would be a win.  
+Rep: Any budget constraints we should discuss?  
+Prospect: We have about $15,000 allocated for this quarter.  
+Rep: Our solution starts at $12,000 annually. We also offer a trial period. Are you currently evaluating any competitors?  
+Prospect: Yes, we've looked at HubSpot, but we're concerned about their pricing structure.  
+Rep: Our pricing is straightforward, with no hidden fees. Would you be open to a demo next week?  
+Prospect: Yes, let's do that.  
+Rep: I'll send over a calendar invite for Tuesday and include a trial overview. Next step: prepare a demo tailored to your needs.

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It takes too long to get insights.  
+Rep: That’s frustrating. What specific reports are you finding most difficult to generate?  
+Prospect: Sales forecasts and lead conversion rates. They’re always late or inaccurate.  
+Rep: If we could provide real-time analytics and automated reporting, how would that impact your team?  
+Prospect: It would help us make quicker decisions and improve our pipeline management.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a tight budget this quarter, but we’re looking for a solution that can grow with us.  
+Rep: Understood. How do you currently evaluate vendors?  
+Prospect: We usually compare features and user feedback, especially from other VP Sales.  
+Rep: Our clients in your space have seen a 30% increase in productivity. Would you be open to a demo next week?  
+Prospect: Yes, that sounds good. Let’s set it up for Wednesday.  
+Rep: I’ll send a calendar invite and demo agenda. Next step: gather your team's feedback post-demo.

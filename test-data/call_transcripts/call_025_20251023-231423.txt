@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and inconsistent reporting across teams.  
+Rep: That’s a common issue. How are you currently managing your leads?  
+Prospect: Mostly spreadsheets and manual entries, which is time-consuming and error-prone.  
+Rep: I understand. What specific outcomes are you hoping to achieve with a new CRM?  
+Prospect: We need real-time visibility on sales performance and better collaboration.  
+Rep: Got it. Any limitations on budget or timeline for this project?  
+Prospect: We have a budget set for Q4, but we need implementation done within three months.  
+Rep: That’s manageable. Are there any features you’ve seen in competitors that you wish you had?  
+Prospect: I like the automation tools in HubSpot, but I think they’re a bit pricey.  
+Rep: Our platform offers similar automation at a lower cost. How about we schedule a demo next week?  
+Prospect: That sounds good. Let’s aim for Tuesday morning.  
+Rep: Perfect! I’ll send a calendar invite and a brief agenda. Next step: gather your team’s feedback post-demo.

@@ -1,0 +1,14 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM?  
+Prospect: We’re struggling with lead tracking and integration with our marketing tools.  
+Rep: I see. How are those issues affecting your sales team's performance?  
+Prospect: It leads to missed opportunities and miscommunication between sales and marketing.  
+Rep: Understood. What features would help your team most?  
+Prospect: Better lead scoring and seamless integration with our email campaigns.  
+Rep: If we could improve communication and increase conversion rates by 20% in three months, what would that mean for you?  
+Prospect: It would significantly boost our quarterly revenue.  
+Rep: Any concerns about implementation?  
+Prospect: Just budget constraints; we’re tight this quarter.  
+Rep: Our pricing starts at $99 per user monthly, with discounts for yearly commitments. Would that fit within your budget?  
+Prospect: Possibly, but I need to get buy-in from the CFO.  
+Rep: We can offer a trial period to demonstrate ROI. Shall we schedule a follow-up for next week?  
+Prospect: Yes, let’s do that.

@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM solution?  
+Prospect: We’re struggling with data silos and inconsistent reporting across teams.  
+Rep: That’s a common issue. How are you currently managing lead tracking and sales forecasts?  
+Prospect: It’s mostly manual, which leads to errors and delays. We need something more streamlined.  
+Rep: Understood. What features are essential for your sales team?  
+Prospect: Automated reporting and integration with our marketing tools are top priorities.  
+Rep: Excellent. What would a successful implementation look like for you in the next few months?  
+Prospect: A unified dashboard that our reps can access easily, with real-time updates.  
+Rep: Any concerns about budget or timing?  
+Prospect: We have some flexibility, but we need results fast—ideally within the quarter.  
+Rep: Our solution can integrate quickly, with a pilot program in about two weeks. Would that work?  
+Prospect: Yes, let’s start with that.  
+Rep: Great! I’ll send over the pilot details and we can schedule a kickoff next week.

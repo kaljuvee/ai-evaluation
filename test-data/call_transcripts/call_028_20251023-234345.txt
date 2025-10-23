@@ -1,0 +1,14 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM?  
+Prospect: We struggle with lead tracking and reporting; it’s too manual.  
+Rep: That’s frustrating. How many leads do you typically manage in a month?  
+Prospect: Around 500, but they slip through the cracks often.  
+Rep: If you could automate tracking and generate reports in real-time, what impact would that have?  
+Prospect: It would definitely improve our conversion rates and save time.  
+Rep: Any concerns about implementation?  
+Prospect: We’re worried about integration with our existing tools; we use multiple platforms.  
+Rep: We have a dedicated integration team for a seamless setup. What’s your budget range for a CRM solution?  
+Prospect: We’re looking at $10,000 per year max.  
+Rep: Our solution starts at $8,500 annually with full support. Would a phased rollout work for you?  
+Prospect: Yes, starting with the sales team would be ideal.  
+Rep: Great! Let’s schedule a demo next week and discuss your specific needs further.  
+Prospect: Sounds good; I’ll have my team on it.

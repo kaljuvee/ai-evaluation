@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with user adoption and data accuracy. Sales reps find it cumbersome.  
+Rep: I understand. What specific features do your reps find difficult to use?  
+Prospect: The reporting tools are complex, and they often miss updates on leads.  
+Rep: If we could simplify reporting and improve lead tracking, what would that mean for your team?  
+Prospect: It would boost our sales efficiency and drive more revenue.  
+Rep: Are there any budget constraints we should consider?  
+Prospect: We have a budget set for this quarter, but we need to see clear ROI.  
+Rep: How do you currently measure ROI on your CRM?  
+Prospect: Primarily through increased sales and lower churn rates.  
+Rep: Our solution provides real-time analytics to help with that. Any concerns about switching?  
+Prospect: Just the potential disruption during migration.  
+Rep: We can implement a phased rollout, starting with a pilot in one region. Does that sound good?  
+Prospect: Yes, let’s plan for that.  
+Rep: I’ll prepare a pilot proposal and we can schedule a kickoff next week.

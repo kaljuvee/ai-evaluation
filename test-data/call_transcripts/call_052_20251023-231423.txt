@@ -1,0 +1,29 @@
+Rep: Thanks for connecting today! What prompted you to explore new CRM solutions?
+
+Prospect: Our current system isn’t scalable, and we’re losing leads due to inefficiencies.
+
+Rep: That’s a common concern. Can you share more about your lead management process?
+
+Prospect: We’re relying heavily on spreadsheets and manual entries. It’s overwhelming.
+
+Rep: I understand. What specific features would help streamline that process?
+
+Prospect: Automation for follow-ups and better reporting would be key.
+
+Rep: Great! What does success look like for your sales team in the next quarter?
+
+Prospect: If we could increase our lead conversion by 20%, that would be ideal.
+
+Rep: Are there any budget constraints we should be aware of?
+
+Prospect: We have around $15,000 allocated this quarter, but we’re open to options.
+
+Rep: Competitive tools like HubSpot are popular, but our automation is more robust. Any hesitations on moving forward?
+
+Prospect: Just worried about data migration.
+
+Rep: We offer dedicated support for that process. Would a demo next week work for you?
+
+Prospect: Yes, let’s schedule it for Thursday.
+
+Rep: Perfect! I’ll send the invite. Next step: prepare for the demo.

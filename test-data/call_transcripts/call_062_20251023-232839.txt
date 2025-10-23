@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What’s driving your interest in a new CRM solution right now?  
+Prospect: We’re struggling to keep track of leads and follow-ups; our current system is outdated.  
+Rep: I understand. What specific features are you looking for to improve your sales process?  
+Prospect: Automation for follow-ups and better reporting tools would be key.  
+Rep: Great, what would a successful implementation look like for your team in the next quarter?  
+Prospect: If we could increase our lead conversion by 20%, that would be ideal.  
+Rep: Do you have a budget range in mind for this project?  
+Prospect: We’re looking at around $15,000, but I need it to be justifiable to the CFO.  
+Rep: Absolutely. Are there any competitors you’re currently evaluating?  
+Prospect: We’re looking at Salesforce and HubSpot.  
+Rep: Our CRM offers unique automation features that can save you time. How about we set up a demo next week?  
+Prospect: That sounds good. Let’s aim for Wednesday at 2 PM.  
+Rep: Perfect! I’ll send over a calendar invite and a prep document.

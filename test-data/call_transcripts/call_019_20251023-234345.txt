@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What made you consider a new CRM solution right now?  
+Prospect: We're struggling with lead management and tracking sales performance effectively.  
+Rep: That’s common. Can you share how you're currently managing your leads?  
+Prospect: We use spreadsheets and a basic tool, but it’s disorganized and hard to access.  
+Rep: Understood. What specific features are you looking for in a CRM?  
+Prospect: I need robust reporting and integration with our email system.  
+Rep: Sounds like visibility is key for you. What does a successful implementation look like for your team?  
+Prospect: Real-time insights and improved follow-up rates would be a win.  
+Rep: Any budget constraints we should consider?  
+Prospect: We're looking at around $15,000 for this year.  
+Rep: Our solution starts at $12,000 annually. How do you currently evaluate CRM options?  
+Prospect: We compare user reviews and pricing.  
+Rep: We can set up a demo next week. Would Tuesday work?  
+Prospect: Yes, let’s do that.  
+Rep: Great! I’ll confirm the demo and send over some case studies.

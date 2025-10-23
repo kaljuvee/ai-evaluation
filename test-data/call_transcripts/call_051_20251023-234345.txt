@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data accuracy and user adoption across the sales team.  
+Rep: I see. How does that affect your sales process?  
+Prospect: It leads to missed opportunities and inconsistent reporting.  
+Rep: Understood. What features are you looking for to improve these issues?  
+Prospect: We need better data integration and a more intuitive interface.  
+Rep: That makes sense. What’s your timeline for implementing a new solution?  
+Prospect: We want to make a decision in the next quarter. Budget is tight but flexible.  
+Rep: Are there other stakeholders involved in this decision?  
+Prospect: Yes, our CTO is concerned about data security.  
+Rep: Our CRM prioritizes security with robust encryption. Any hesitations we should address?  
+Prospect: Just the transition period; we can’t afford downtime.  
+Rep: We offer a phased rollout to minimize disruption. How about a demo next week?  
+Prospect: Sounds good. Let’s schedule it for Tuesday.  
+Rep: I’ll send a calendar invite and a follow-up agenda.

@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What prompted you to explore new CRM solutions?  
+Prospect: Our current system isn’t scalable; we’re outgrowing it fast.  
+Rep: I understand. What specific challenges are you facing with your current CRM?  
+Prospect: Reporting is cumbersome, and sales reps struggle with data entry.  
+Rep: If we could streamline reporting and automate data entry, how would that impact your sales team?  
+Prospect: It would save time and improve our deal velocity significantly.  
+Rep: Do you have a budget in mind for this project?  
+Prospect: We’re looking at around $15,000 for the first year.  
+Rep: Great! How does that compare to what you’re currently spending?  
+Prospect: It’s a bit higher, but we need better value.  
+Rep: We offer a 30-day trial, no risk. Would you be open to that?  
+Prospect: Yes, but I’m concerned about integration with our current tools.  
+Rep: We have a strong track record with integrations. Let’s schedule a demo next week to show you.  
+Prospect: Sounds good! I’ll get my team involved.  
+Rep: I’ll send over a calendar invite. Next step: demo on Wednesday.

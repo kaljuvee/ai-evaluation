@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and pipeline visibility; it’s causing missed opportunities.  
+Rep: I understand. How do you currently manage your sales processes?  
+Prospect: We use spreadsheets, but it's cumbersome for the team to update them regularly.  
+Rep: That sounds frustrating. What would an ideal solution look like for you?  
+Prospect: Real-time data on leads and better collaboration among the team.  
+Rep: Great! What’s your budget and timeline for implementing a new system?  
+Prospect: We're looking to implement within the next quarter, but budget is tight.  
+Rep: Our solution starts at $50 per user per month. Are there specific features you're looking for?  
+Prospect: Integration with our email platform is crucial.  
+Rep: We offer seamless integration with major platforms. Any concerns preventing you from moving forward?  
+Prospect: Just worried about user adoption.  
+Rep: We provide training and support during onboarding. Would you be open to a demo next week?  
+Prospect: Yes, let’s schedule that.  
+Rep: Perfect! I’ll follow up with a calendar invite.

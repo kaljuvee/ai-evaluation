@@ -1,0 +1,13 @@
+Rep: Hi, thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: Our sales team struggles with tracking leads and managing follow-ups; it’s very manual.  
+Rep: I see. How are you currently measuring sales performance?  
+Prospect: We rely on spreadsheets, but it’s cumbersome and error-prone.  
+Rep: Understood. If you could streamline lead tracking and automate reporting, what would that mean for your team?  
+Prospect: It would save time and help us close deals faster.  
+Rep: Are there any specific features you’re looking for in a CRM?  
+Prospect: Integration with our marketing tools is crucial.  
+Rep: Our CRM integrates seamlessly with major platforms like HubSpot. What’s your budget for a new solution?  
+Prospect: We have about $10,000 allocated for this quarter.  
+Rep: Perfect. We can start with a pilot to showcase the integration benefits. How does a two-week trial sound?  
+Prospect: That works. Let’s include our marketing manager in the discussion.  
+Rep: Great! I’ll send over the pilot plan and set up a kickoff for next week.

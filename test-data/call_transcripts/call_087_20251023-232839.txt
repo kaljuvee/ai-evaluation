@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM?  
+Prospect: We're struggling with tracking leads effectively and our reporting is a mess.  
+Rep: I understand. What specific reports are you finding most difficult to generate?  
+Prospect: Sales forecasts and team performance metrics. It’s all manual right now.  
+Rep: Got it. If you could automate those reports, how would that impact your sales strategy?  
+Prospect: It would save us hours and help us make quicker decisions.  
+Rep: Any concerns about integrating a new system with your existing tools?  
+Prospect: A bit. We use several platforms, and I’m worried about compatibility.  
+Rep: Our CRM easily integrates with major tools like Salesforce and HubSpot. What’s your budget for a new system?  
+Prospect: Around $15,000 for the year.  
+Rep: That fits within our pricing. How about a demo next week to see how it all works?  
+Prospect: Sounds good. Let’s do Tuesday at 2 PM.  
+Rep: I’ll confirm the time and send over some resources in advance. Looking forward to it!

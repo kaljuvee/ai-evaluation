@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time to chat today. What challenges are you facing with your current CRM?  
+Prospect: We're struggling with data silos and lack of integration across teams. It’s affecting our sales process.  
+Rep: I understand. How do those silos impact your sales team’s performance?  
+Prospect: It creates delays in following up with leads and miscommunication on customer statuses.  
+Rep: What would a seamless integration mean for your team?  
+Prospect: Faster lead response times and more coordinated outreach would be huge.  
+Rep: Any concerns on budget or implementation timelines?  
+Prospect: We have a tight budget this quarter, and we need something that won’t disrupt our current operations.  
+Rep: Our CRM offers a phased implementation to minimize disruption. Are you currently looking at other solutions?  
+Prospect: Yes, we’ve also considered Salesforce, but it seems more complex.  
+Rep: We can set up a demo next week to show how easy our integration is. Does Tuesday work for you?  
+Prospect: That sounds good. Let’s do Tuesday.  
+Rep: I’ll send a calendar invite and a brief overview of the demo agenda. Next step: confirm attendees.

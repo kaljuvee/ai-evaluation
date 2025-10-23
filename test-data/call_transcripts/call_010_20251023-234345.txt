@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting; it’s too manual and time-consuming.  
+Rep: I understand. How do you currently manage your sales pipeline?  
+Prospect: We use spreadsheets, but they're not integrated. It leads to data discrepancies.  
+Rep: Got it. What would an ideal solution look like for your team?  
+Prospect: Automated data entry, real-time insights, and a user-friendly interface.  
+Rep: What are your budget and timeline for implementing a new CRM?  
+Prospect: We have about $15K allocated for this quarter, but we need to move quickly.  
+Rep: Are there any competitors you’re considering?  
+Prospect: We’re looking at HubSpot and Salesforce, but their pricing is a bit steep.  
+Rep: Our solution starts at $10K and includes onboarding support. How does that sound?  
+Prospect: That’s competitive. I’m concerned about data migration, though.  
+Rep: We offer a full migration service to ensure a smooth transition. Would you be open to a demo next week?  
+Prospect: Yes, let’s schedule that.  
+Rep: I’ll send a calendar invite for Tuesday at 10 AM. Looking forward to it!

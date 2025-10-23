@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with tracking leads effectively. It's messy and time-consuming.  
+Rep: I see. How are you currently managing lead follow-ups?  
+Prospect: Mostly through spreadsheets and emails, which leads to lost opportunities.  
+Rep: If you could streamline this process, what would that look like for your team?  
+Prospect: Automated tracking and reminders would be ideal.  
+Rep: Would you say user-friendliness is a priority?  
+Prospect: Absolutely, my team won’t adopt anything complicated.  
+Rep: We focus on intuitive design, plus we integrate with other tools like Slack and Zoom. Any budget constraints?  
+Prospect: We can invest up to $5,000 this quarter, but we need to see ROI quickly.  
+Rep: Our clients typically see returns in under three months. Would a pilot program to test it out be of interest?  
+Prospect: Yes, I’d like to see that.  
+Rep: Great! I’ll prepare a pilot plan. Let’s schedule a follow-up for next week to discuss details.

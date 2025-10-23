@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with data accuracy and team collaboration. It’s affecting our sales pipeline.  
+Rep: That’s frustrating. How do you currently manage leads and track opportunities?  
+Prospect: We’re using spreadsheets and manual updates. It’s too time-consuming.  
+Rep: I understand. If you could automate your lead tracking and improve collaboration, what would that mean for your team?  
+Prospect: It would save us hours each week and help close deals faster.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility, but we need to see ROI quickly.  
+Rep: Competitors often report a 20% increase in sales efficiency in the first quarter. Would that be valuable for you?  
+Prospect: Definitely. We need that kind of improvement.  
+Rep: How about a demo next week? We can show you how our CRM can address your needs.  
+Prospect: Sounds good. Let’s schedule it for Wednesday.  
+Rep: I’ll send a calendar invite and a brief overview. Next step: review your current sales process before the demo.

@@ -1,0 +1,14 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data accuracy and lead tracking. It’s affecting our sales pipeline.  
+Rep: I see. How are you currently managing lead assignments?  
+Prospect: It's manual and often leads to duplication. We need something more automated.  
+Rep: What specific outcomes would you like to see in the next few months?  
+Prospect: Improved lead conversion rates and better visibility into our pipeline.  
+Rep: Do you have a budget in mind for this?  
+Prospect: We’re looking to spend around $15,000 this quarter.  
+Rep: How does your current system compare to what you've seen from competitors?  
+Prospect: We’ve looked at HubSpot, but it seems expensive for what we need.  
+Rep: Our platform starts at $10,000 and offers built-in automation for lead management. Would you be open to a demo?  
+Prospect: Yes, but I want to ensure it integrates with our existing tools.  
+Rep: Absolutely. Let’s set up a demo next week and I’ll include integration details. Sound good?  
+Prospect: Perfect, let’s do that.

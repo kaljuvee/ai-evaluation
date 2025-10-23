@@ -1,0 +1,13 @@
+Rep: Hi, thanks for meeting today! What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and pipeline visibility. It’s hard to keep everyone aligned.  
+Rep: I understand. What’s your ideal outcome with a new system?  
+Prospect: Better collaboration and real-time insights into sales performance.  
+Rep: That makes sense. How do you currently manage your sales reports?  
+Prospect: We use spreadsheets, but they’re time-consuming and often outdated.  
+Rep: If we could automate reporting and improve lead management, how would that affect your team’s performance?  
+Prospect: It would save us hours each week and help close deals faster.  
+Rep: What budget do you have allocated for this project?  
+Prospect: We’re looking at around $15,000, but I need to justify the ROI to my CEO.  
+Rep: Our customers see a 30% increase in sales efficiency within the first three months. Would a pilot help demonstrate that?  
+Prospect: Yes, a pilot sounds good. Let’s start with a demo next week.  
+Rep: Great! I’ll send over the details and schedule that demo. Next step: confirm the time by Friday.

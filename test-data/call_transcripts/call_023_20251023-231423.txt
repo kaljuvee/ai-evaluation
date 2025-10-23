@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM?  
+Prospect: We're struggling with lead tracking and follow-up—it’s all scattered across different tools.  
+Rep: I see. How are you currently managing your sales pipeline?  
+Prospect: It’s mostly manual updates in spreadsheets. We miss opportunities because of it.  
+Rep: Understood. What are your key goals for a new CRM in the next six months?  
+Prospect: We need better automation and reporting to boost our conversion rates.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget for this quarter, but it needs to show clear ROI.  
+Rep: Our solution offers advanced analytics that can improve your decision-making. Any concerns we should address?  
+Prospect: I worry about training the team on a new system.  
+Rep: We provide extensive onboarding and support. How about a demo next week?  
+Prospect: That sounds good. I’d like my sales manager to join as well.  
+Rep: Perfect! I’ll schedule the demo and send you a calendar invite. Next step: follow up afterward to discuss feedback.

@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What led you to explore CRM solutions right now?  
+Prospect: Our current system isn’t scaling with our growth; we’re losing leads.  
+Rep: I understand. What specific features are you missing?  
+Prospect: Better tracking of customer interactions and automated follow-ups.  
+Rep: If we could improve lead conversion by 20% within three months, what would that mean for your team?  
+Prospect: That would significantly boost our revenue and morale.  
+Rep: Who else is involved in the decision-making process?  
+Prospect: I’ll need buy-in from our CEO. We have a limited budget this quarter.  
+Rep: Understood. Are you considering any other CRM platforms?  
+Prospect: We’ve looked at Salesforce and HubSpot, but they seem complex and pricey.  
+Rep: Our solution offers a user-friendly interface at a competitive rate. What concerns do you have about switching?  
+Prospect: Data migration and training.  
+Rep: We offer dedicated support for a seamless transition. How about we set up a demo next week?  
+Prospect: Sounds good. Let’s aim for Wednesday.  
+Rep: I’ll send a calendar invite and follow up with resources.

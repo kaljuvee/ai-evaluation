@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What prompted your interest in a new CRM solution?  
+Prospect: We're struggling with tracking leads efficiently and our current system isn’t user-friendly.  
+Rep: I understand. What specific challenges are your sales team facing with lead tracking?  
+Prospect: It's hard to get insights on lead status, and we’re losing deals due to missed follow-ups.  
+Rep: What would success look like for you in the next quarter?  
+Prospect: A system that provides clear visibility on leads and automates reminders for follow-ups.  
+Rep: Any budget constraints we should be aware of?  
+Prospect: We have a budget set for this quarter but need to ensure it’s cost-effective.  
+Rep: Our solution starts at $50 per user per month. How does that compare to what you're currently spending?  
+Prospect: About the same, but our current system has hidden costs.  
+Rep: We can offer a 14-day trial to see the benefits firsthand. Would you like to move forward with that?  
+Prospect: Yes, let’s schedule the trial setup for next week.  
+Rep: I’ll send over the trial details and confirm a kickoff call for Monday.

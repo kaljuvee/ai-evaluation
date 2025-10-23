@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What prompted you to explore new CRM solutions?  
+Prospect: Our current system isn’t scaling with our team, and we're losing track of leads.  
+Rep: That’s frustrating! How many leads are you managing on average each month?  
+Prospect: Around 500, but it’s a challenge to keep them organized.  
+Rep: Understood. What would an ideal CRM do for your sales team?  
+Prospect: Streamline lead tracking and improve collaboration. Real-time insights would be great too.  
+Rep: We can provide real-time dashboards and automated lead assignments. Do you have a budget in mind?  
+Prospect: We’re looking at under $15,000 annually, but need to justify ROI.  
+Rep: Our clients typically see a 20% increase in sales productivity within six months. Any competitors you’re considering?  
+Prospect: We're looking at Salesforce and HubSpot, but they seem pricey.  
+Rep: We offer a more cost-effective solution with similar features. How about a demo next week?  
+Prospect: That sounds good. Let’s do Wednesday.  
+Rep: Perfect, I’ll send a calendar invite and a brief agenda. Looking forward to it!

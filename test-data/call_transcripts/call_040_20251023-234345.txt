@@ -1,0 +1,13 @@
+Rep: Thanks for your time today! What challenges are you facing with your current CRM system?  
+Prospect: Our team struggles with lead tracking and reporting. It takes too long to pull insights.  
+Rep: That’s frustrating. What tools are you currently using for reporting?  
+Prospect: We use a mix of spreadsheets and our existing CRM, but it’s not user-friendly.  
+Rep: I see. If you could streamline reporting and improve lead management, what would that mean for your sales team?  
+Prospect: It would save us hours each week and help us close more deals.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility but need to see ROI.  
+Rep: Understood. Our CRM offers customizable dashboards and automated reporting. Any concerns about switching?  
+Prospect: Just the time it takes to train the team.  
+Rep: We provide onboarding support and resources. Let’s set up a demo next week to show how it works. How does Tuesday sound?  
+Prospect: That works. Let’s include my sales manager.  
+Rep: Great, I’ll send a calendar invite. Next step: demo preparation and training overview.

@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What prompted you to explore new CRM solutions now?  
+Prospect: Our current system is clunky and doesn't integrate well with our marketing tools.  
+Rep: I see. Which specific integrations are causing the most frustration?  
+Prospect: Mainly our email marketing platform. It’s hard to track leads effectively.  
+Rep: Understood. What would a successful CRM look like for your team in three months?  
+Prospect: Streamlined lead tracking and automated follow-ups would be great.  
+Rep: Any budget constraints we should consider?  
+Prospect: We're looking at around $15,000 for the year.  
+Rep: Are there other CRMs you're evaluating?  
+Prospect: Yes, Salesforce and HubSpot are on our radar.  
+Rep: Our platform excels in lead automation and integrates seamlessly with your existing tools. Any concerns about switching?  
+Prospect: Just the potential downtime during the transition.  
+Rep: We can implement a phased rollout with training. How about a demo next week?  
+Prospect: That works. Let’s aim for Tuesday.  
+Rep: Great! I’ll send a calendar invite and follow up afterward.

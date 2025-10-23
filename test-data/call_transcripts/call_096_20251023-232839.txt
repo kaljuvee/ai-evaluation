@@ -1,0 +1,13 @@
+Rep: Thanks for taking the call today! What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and pipeline visibility. It’s cumbersome and outdated.  
+Rep: I understand. How do you currently measure success in your sales process?  
+Prospect: We focus on conversion rates and time to close, but it’s hard to get accurate data.  
+Rep: If we could streamline reporting and improve data accuracy, what impact would that have?  
+Prospect: It would help us identify bottlenecks and improve our forecast accuracy.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some budget flexibility, but it needs to align with our quarterly goals.  
+Rep: Competitors like Salesforce can be costly. Our solution offers similar capabilities at a lower price point. Any concerns holding you back?  
+Prospect: Integration with our existing tools is a big worry.  
+Rep: We have a proven integration process. How about we set up a demo next week to show you?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Perfect! I’ll confirm the time and send you a calendar invite.

@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and reporting. It’s too manual and time-consuming.  
+Rep: I understand. How do you currently manage your lead assignments?  
+Prospect: It’s a mix of spreadsheets and emails, which leads to a lot of miscommunication.  
+Rep: If we could automate lead assignment and streamline reporting, what impact would that have?  
+Prospect: It would save time and improve our forecasting accuracy significantly.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility, but I need to justify the ROI.  
+Rep: How do you currently evaluate CRM options?  
+Prospect: We’re looking at a couple of competitors, but they don’t offer seamless integrations.  
+Rep: Our CRM integrates with your existing tools and offers robust reporting. Would a demo next week work?  
+Prospect: Yes, let’s do that.  
+Rep: Great! I’ll send a calendar invite for the demo and prepare a comparison with competitors.

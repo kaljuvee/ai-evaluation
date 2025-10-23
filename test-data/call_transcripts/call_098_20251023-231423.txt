@@ -1,0 +1,15 @@
+Rep: Thanks for speaking with me today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It feels disjointed.  
+Rep: I understand. How do you currently manage leads through your sales process?  
+Prospect: It’s mostly manual entry and spreadsheets. It’s time-consuming and prone to errors.  
+Rep: If we could streamline lead management and provide real-time reporting, how would that help your team?  
+Prospect: It would save us hours each week and give us better insights.  
+Rep: Are there any specific features you’ve been looking for?  
+Prospect: Integration with our marketing tools is a must.  
+Rep: Our CRM offers seamless integrations. What’s your budget for this project?  
+Prospect: We have around $5,000 allocated for this quarter.  
+Rep: We can start with a basic package and scale as needed. Any concerns about migrating your data?  
+Prospect: Just potential downtime during the switch.  
+Rep: We offer a phased rollout to minimize disruption. How about we schedule a demo next week?  
+Prospect: That sounds good. Let’s do it.  
+Rep: I’ll send the invite and some resources to review ahead of time.

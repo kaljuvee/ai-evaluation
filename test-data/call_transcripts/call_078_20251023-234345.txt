@@ -1,0 +1,13 @@
+Rep: Thanks for meeting with me today. What challenges are you currently facing with your sales processes?  
+Prospect: We struggle with tracking leads and managing follow-ups effectively. It’s chaotic.  
+Rep: I understand. How are you currently managing your CRM?  
+Prospect: We use a basic tool, but it lacks automation and analytics.  
+Rep: What features would make a difference for you?  
+Prospect: Automated follow-up reminders and better reporting capabilities would help us a lot.  
+Rep: Great! Our CRM provides real-time analytics and customizable workflows. What’s your budget for this?  
+Prospect: We have a limit of $10,000 annually, and we need something easy to implement.  
+Rep: Our solution fits within that budget, and we offer onboarding support. Any concerns before moving forward?  
+Prospect: Just worried about integration with our existing tools.  
+Rep: We have seamless integrations with popular platforms. How about a demo next week to show you?  
+Prospect: Sounds good. Let’s do Tuesday at 2 PM.  
+Rep: Perfect! I’ll send the invite and materials for the demo. Looking forward to it!

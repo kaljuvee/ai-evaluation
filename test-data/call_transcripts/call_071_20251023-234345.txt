@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It's too manual and time-consuming.  
+Rep: I see. How much time do your sales reps spend on data entry each week?  
+Prospect: At least ten hours. It’s eating into their selling time.  
+Rep: If we could automate lead tracking and improve reporting accuracy, how would that impact your team?  
+Prospect: It would definitely boost productivity and help us close deals faster.  
+Rep: Are there specific features you're looking for?  
+Prospect: Integration with our email and an easy-to-use interface.  
+Rep: Our CRM offers seamless email integration and a user-friendly dashboard. What’s your budget for a new system?  
+Prospect: Around $15,000 annually.  
+Rep: That fits! Any concerns about switching providers?  
+Prospect: Just the migration process.  
+Rep: We offer dedicated support for a smooth transition. How about a demo next week to show you the interface?  
+Prospect: That works. Let’s schedule it for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite. Next step: gather your team for the demo.

@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It’s too manual and time-consuming.  
+Rep: I understand. How much time does your team spend on data entry each week?  
+Prospect: At least 10 hours. It’s affecting our productivity.  
+Rep: If we could automate that and provide real-time insights, what would that mean for your team?  
+Prospect: More time for selling, which is critical.  
+Rep: Any specific features you're looking for?  
+Prospect: Integration with our email and calendar is a must.  
+Rep: Our CRM offers seamless integration. How does your budget look for this?  
+Prospect: We have some flexibility, but we need to show ROI quickly.  
+Rep: Understood. Would a trial help you assess our value?  
+Prospect: Yes, but I’m concerned about migration risks.  
+Rep: We can set up a phased rollout and provide support. Would a two-week trial work?  
+Prospect: That sounds reasonable. Let’s schedule a kickoff for next Wednesday.  
+Rep: Great! I’ll send over the trial plan and confirm the meeting.

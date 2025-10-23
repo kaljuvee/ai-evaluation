@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with tracking leads effectively and managing our sales pipeline.  
+Rep: I see. How are these issues affecting your sales team's performance?  
+Prospect: It's causing missed opportunities and inconsistent follow-ups.  
+Rep: What features are most important for a new CRM?  
+Prospect: We need robust reporting and automation for follow-ups.  
+Rep: Understood. What does success look like after implementing a new system?  
+Prospect: A clear, organized pipeline and improved conversion rates within three months.  
+Rep: Budget constraints?  
+Prospect: We have allocated funds this quarter, but it’s tight.  
+Rep: Are you considering other CRM solutions?  
+Prospect: Yes, we’re looking at Salesforce and HubSpot as well.  
+Rep: Our CRM offers unique automation features that could streamline your process. Could we set up a demo next week?  
+Prospect: Yes, that sounds good. Let’s aim for Wednesday.  
+Rep: Great! I’ll send a calendar invite and a demo agenda. Next step: gather user feedback for the session.

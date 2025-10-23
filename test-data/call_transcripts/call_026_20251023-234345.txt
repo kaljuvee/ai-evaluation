@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and reporting accuracy. Sales reps are frustrated.  
+Rep: I understand. How do you currently measure the effectiveness of your leads?  
+Prospect: It’s mostly manual. We rely on spreadsheets, which leads to errors.  
+Rep: If we could automate lead tracking and improve reporting by 30%, how would that impact your team?  
+Prospect: It would save us time and help us close more deals.  
+Rep: Who else needs to weigh in on a new CRM decision?  
+Prospect: The COO, but she’s concerned about cost and integration with our existing tools.  
+Rep: Our solution integrates seamlessly and starts at $50 per user monthly. Would you like to see a demo next week?  
+Prospect: I’d need to discuss pricing with the COO first.  
+Rep: Absolutely. I can provide a detailed proposal to help your discussion. How about I follow up on Friday?  
+Prospect: That works. Let’s aim for a demo after I speak with her.  
+Rep: Perfect, I’ll prepare the proposal for you.

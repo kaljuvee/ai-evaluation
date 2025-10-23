@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: Our sales team struggles with tracking leads and managing follow-ups effectively. It’s chaotic.  
+Rep: That’s a common issue. How are you currently handling lead assignments?  
+Prospect: It’s manual, and we often miss opportunities as a result.  
+Rep: What would an ideal solution look like for your team?  
+Prospect: Automated lead distribution and better visibility on sales activities.  
+Rep: Got it. Are there any specific integrations you require?  
+Prospect: Yes, we need it to work with our marketing automation tool.  
+Rep: Understood. What budget do you have allocated for a new CRM?  
+Prospect: We have around $15,000 for this quarter.  
+Rep: Are you considering other CRM solutions?  
+Prospect: Yes, we’re looking at HubSpot, but I've heard mixed reviews on their customer support.  
+Rep: Our dedicated support team is available 24/7. Would a demo next week work for you?  
+Prospect: Yes, let’s do that.  
+Rep: I’ll send over a calendar invite and demo agenda. Looking forward to it!

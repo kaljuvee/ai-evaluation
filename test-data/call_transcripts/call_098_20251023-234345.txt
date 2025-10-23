@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with data accuracy and integration with our marketing tools.  
+Rep: I understand. How are these issues impacting your sales team's performance?  
+Prospect: It’s leading to missed opportunities and delayed follow-ups.  
+Rep: If we could streamline your data and improve integration, what results would you expect?  
+Prospect: A more responsive team and a 20% increase in lead conversions.  
+Rep: Do you have a budget allocated for this project?  
+Prospect: We have about $15,000 for this quarter.  
+Rep: Great. What’s your timeline for implementation?  
+Prospect: We’d like to see something live in the next two months.  
+Rep: Our solution integrates easily within two weeks. Any concerns about switching?  
+Prospect: Just the learning curve for my team.  
+Rep: We offer comprehensive training sessions. How about we schedule a demo next week?  
+Prospect: Sounds good. Let’s do Wednesday at 2 PM.  
+Rep: I’ll confirm that and send over some materials to review. Looking forward to it!

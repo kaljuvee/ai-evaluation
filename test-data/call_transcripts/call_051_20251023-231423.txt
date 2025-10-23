@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What’s driving your interest in a new CRM solution?  
+Prospect: Our current system is too rigid, and we’re struggling with lead tracking and reporting.  
+Rep: I see. What specific reporting issues are you facing?  
+Prospect: It takes too long to generate sales forecasts, and data is often inaccurate.  
+Rep: Understood. What would a streamlined reporting process mean for your team?  
+Prospect: It would help us make faster decisions and focus on revenue-generating activities.  
+Rep: Got it. Do you have a budget range in mind for this solution?  
+Prospect: We’re looking at around $10,000 annually, but it needs to show clear ROI.  
+Rep: That’s reasonable. How does your team currently compare CRM options?  
+Prospect: We’ve looked at a few, but they all seem to lack customization.  
+Rep: Our CRM offers extensive customization and integrations. Any concerns about implementation?  
+Prospect: Just the usual worries about user adoption.  
+Rep: We provide training and support. Let’s schedule a demo next week to show you how it works. Does Tuesday work?  
+Prospect: Yes, let’s do Tuesday.  
+Rep: Perfect! I’ll send over a calendar invite and demo details.

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What led you to explore CRM solutions at this time?  
+Prospect: Our current system is too fragmented; sales reps are struggling to track leads properly.  
+Rep: Understandable. What specific features are you missing most right now?  
+Prospect: We need better reporting and automation for follow-ups.  
+Rep: Got it. What would an ideal CRM help your team achieve in the next quarter?  
+Prospect: More leads converted to sales, ideally a 20% increase.  
+Rep: That’s a solid goal. Do you have budget parameters in mind for a new solution?  
+Prospect: We’re looking at around $15,000 annually, but it needs to integrate with our existing tools.  
+Rep: Our CRM offers seamless integration with most platforms. Any concerns you have?  
+Prospect: I’m worried about the learning curve for my team.  
+Rep: We provide comprehensive training and support. How about a demo to show the user experience?  
+Prospect: That sounds good. Let’s schedule one for next week.  
+Rep: Perfect! I’ll send over some times for the demo and follow up with training details.

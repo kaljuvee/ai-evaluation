@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It's all over the place.  
+Rep: I understand. How are you currently managing your sales pipeline?  
+Prospect: Mostly spreadsheets. It's time-consuming and prone to errors.  
+Rep: What would an ideal solution look like for your team?  
+Prospect: A centralized dashboard for real-time updates and automated reporting.  
+Rep: That makes sense. Are there any specific features you absolutely need?  
+Prospect: Integration with our marketing automation tool is crucial.  
+Rep: Got it. What’s your budget and timeline for this project?  
+Prospect: We have around $15,000 this quarter, but we need implementation within a month.  
+Rep: Our solution fits that budget and can be implemented quickly. Any concerns about switching?  
+Prospect: Just the learning curve for my team.  
+Rep: We provide training and support. How about we schedule a demo next week?  
+Prospect: That sounds good. Let’s do Tuesday at 2 PM.  
+Rep: I’ll send a calendar invite. Next step: I’ll prepare the demo tailored to your needs.

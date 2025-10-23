@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you currently facing with your sales process?  
+Prospect: We're struggling with lead management and tracking customer interactions. It’s all over the place.  
+Rep: I understand. How do you currently handle lead follow-ups?   
+Prospect: Mostly through email and spreadsheets. It’s inefficient and leads to missed opportunities.  
+Rep: If we could streamline that process and provide a 360-degree view of customer interactions, what impact would that have?  
+Prospect: It would definitely improve our conversion rates and help us close deals faster.  
+Rep: What’s your budget for a CRM solution?  
+Prospect: We have about $15,000 allocated for this year.  
+Rep: Are you currently evaluating other CRM tools?  
+Prospect: Yes, we’ve looked at HubSpot, but it feels a bit pricey.  
+Rep: Our solution offers flexibility and competitive pricing starting at $10,000 annually. Would you be open to a demo next week?  
+Prospect: Yes, let’s do that.  
+Rep: Great! I’ll send a calendar invite for Wednesday and include a brief agenda. 

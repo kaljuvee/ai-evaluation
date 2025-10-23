@@ -25,7 +25,7 @@ This module provides a complete evaluation pipeline for RAG systems, including:
 ### 🔧 Technical Features
 - **LangChain Integration**: Seamless integration with LangChain components
 - **HuggingFace Support**: Uses HuggingFace embeddings and models
-- **FAISS Vector Store**: Efficient similarity search for retrieval
+<!-- FAISS Vector Store intentionally omitted in minimal OpenAI-only setup -->
 - **Caching**: Intelligent caching for cost-effective evaluations
 - **Batch Processing**: Efficient batch evaluation for large datasets
 
@@ -192,15 +192,8 @@ config = EvaluationConfig(
 
 ## Integration Examples
 
-### LangChain Integration
-```python
-from langchain.retrievers import VectorStoreRetriever
-from langchain.vectorstores import FAISS
-
-# Use with existing LangChain components
-retriever = VectorStoreRetriever(vectorstore=your_faiss_store)
-# Integrate with RagasEvaluator
-```
+### LangChain Integration (OpenAI-only)
+Use retrieval backends that do not require FAISS or omit vectorstore examples in this minimal setup.
 
 ### HuggingFace Models
 ```python

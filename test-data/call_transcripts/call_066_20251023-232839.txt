@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: We're struggling with tracking leads and managing our pipeline effectively.  
+Rep: I see. What specific challenges are you facing with your current system?  
+Prospect: It’s too complicated for the team, and reporting is a nightmare.  
+Rep: Understood. What would a successful CRM look like for you in three months?  
+Prospect: Simplified workflows and real-time reporting that helps close deals faster.  
+Rep: Who else is involved in the decision-making process?  
+Prospect: The CEO and the marketing head will also weigh in.  
+Rep: What budget do you have in mind for this project?  
+Prospect: We’re looking at around $15,000 for the first year.  
+Rep: Our solution typically starts around that range, especially with onboarding support. Any concerns we need to address?  
+Prospect: Just integration with our existing tools.  
+Rep: We have extensive API support. How about we schedule a demo next week?  
+Prospect: That works. Let’s aim for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and some resources in the meantime.

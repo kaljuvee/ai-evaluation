@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What’s driving your interest in a new CRM solution right now?  
+Prospect: Our sales team is struggling with tracking leads effectively and managing customer interactions.  
+Rep: That’s common. Can you share which processes are the most challenging?  
+Prospect: The manual data entry and follow-ups are eating up time. We need better automation.  
+Rep: Understood. If you could automate those tasks, what would success look like in three months?  
+Prospect: Streamlined lead tracking and higher conversion rates.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget set for this quarter, but I need to show ROI to the CFO.  
+Rep: Do you currently use any CRM platforms?  
+Prospect: Yes, we’re on an outdated system that doesn’t integrate well.  
+Rep: Our CRM offers seamless integrations and a 30% increase in efficiency. Would a pilot program help demonstrate value?  
+Prospect: Yes, but I need to ensure it won’t disrupt our current workflows.  
+Rep: We can set up a pilot without affecting your current system. How about a demo next week?  
+Prospect: Sounds good. Let’s schedule that.  
+Rep: I’ll send a calendar invite for Tuesday and follow up with a demo outline.

@@ -21,26 +21,21 @@ This repository contains sample implementations for evaluating AI applications u
 ```
 ai-evaluation/
 ├── truelens/                  # TruLens evaluation samples
-│   ├── trulens_eval_sample.py
-│   ├── requirements.txt
+│   ├── (RAG example removed to avoid FAISS dependency)
 │   └── README.md
 ├── deepeval/                  # DeepEval evaluation samples
 │   ├── deepeval_rag_sample.py
 │   ├── deepeval_summarization_sample.py
-│   ├── requirements.txt
 │   └── README.md
 ├── mlflow/                    # MLflow evaluation samples
 │   ├── mlflow_eval_sample.py
-│   ├── requirements.txt
 │   └── README.md
 ├── langfuse/                  # LangFuse evaluation samples
 │   ├── langfuse_eval_sample.py
-│   ├── requirements.txt
 │   └── README.md
 ├── dspy/                      # DSPy evaluation samples
 │   ├── dspy_sample.py
 │   ├── dspy_multihop_sample.py
-│   ├── requirements.txt
 │   └── README.md
 ├── langchain/                 # LangChain evaluation samples
 │   ├── langchain_eval_sample.py
@@ -52,11 +47,8 @@ ai-evaluation/
 ├── azure/                    # Azure AI evaluation samples
 │   ├── azure_agent_eval_sample.py
 │   ├── azure_rag_eval_sample.py
-│   ├── requirements.txt
 │   └── README.md
-├── ragas/                    # Ragas evaluation samples
-│   ├── ragas_evaluator.py
-│   ├── requirements.txt
+├── ragas/                    # Ragas evaluation samples (vectorstore examples removed)
 │   └── README.md
 ├── requirements.txt          # Global dependencies
 └── README.md                # This file

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM solution?  
+Prospect: Our team struggles with lead tracking and reporting. It’s cumbersome and impacts our sales cycles.  
+Rep: I understand. Can you share how many leads you're managing weekly?  
+Prospect: Around 150, but we’re missing follow-ups due to poor visibility.  
+Rep: That’s frustrating. What features would improve your efficiency?  
+Prospect: Automated follow-ups and better analytics would help us a lot.  
+Rep: Our CRM offers those capabilities. What’s your budget for a new solution?  
+Prospect: We have about $15,000 for this quarter, but it needs to show clear ROI.  
+Rep: Absolutely. Other CRMs you’ve considered?  
+Prospect: We looked at Salesforce, but it feels too complex for our needs.  
+Rep: Our solution is designed for ease of use. How about a demo next week to show you the features?  
+Prospect: Sounds good. Let’s do Tuesday at 10 AM.  
+Rep: I’ll confirm the demo and send an agenda. Looking forward to it!

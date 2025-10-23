@@ -1,0 +1,13 @@
+Rep: Thanks for taking the call today! What’s driving your interest in a new CRM solution right now?  
+Prospect: We’re struggling with lead tracking and reporting. Our current system isn’t scaling as we grow.  
+Rep: I see. Which specific features are you finding most limiting?  
+Prospect: The integration with our marketing tools is clunky, and the reporting is too basic for our needs.  
+Rep: What would success look like for you in the next few months?  
+Prospect: Streamlined lead management and advanced analytics to guide our sales strategy.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have about $15,000 allocated for this quarter.  
+Rep: Understood. How does your current tool compare with others you’ve looked at?  
+Prospect: We’ve evaluated a couple, but they seem too complex or pricey.  
+Rep: Our platform offers a user-friendly interface and robust analytics. How about a demo next week to explore it further?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and a brief overview. Next step: gather your team’s input for the demo.

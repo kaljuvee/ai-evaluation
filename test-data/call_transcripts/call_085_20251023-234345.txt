@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with lead tracking and integration with our marketing tools. It’s disjointed.  
+Rep: I understand. How are these issues affecting your sales team’s performance?  
+Prospect: They’re wasting time on data entry instead of selling. We need better visibility into leads.  
+Rep: If we could streamline lead tracking and improve integration, what would that enable for your team?  
+Prospect: Quicker follow-ups and more closed deals. Ideally, I want to see a 20% increase in our conversion rate.  
+Rep: Do you have a budget in mind for this solution?  
+Prospect: We’re looking at around $1,500 per month.  
+Rep: Our solution starts at $1,200 monthly, and we have a feature that enhances lead scoring. Have you evaluated other options?  
+Prospect: We looked at HubSpot, but it was too costly for our needs.  
+Rep: I’d suggest a 30-day trial to show our CRM’s capabilities. Does next Wednesday work for a demo?  
+Prospect: Yes, that sounds good. Let’s do that.  
+Rep: Great! I’ll send a calendar invite and confirm the details.

@@ -1,0 +1,13 @@
+Rep: Hi, thanks for connecting today. What led you to explore CRM solutions right now?  
+Prospect: We're struggling with our current system; it's not user-friendly, and our sales reps are frustrated.  
+Rep: I understand. Can you share what features are most critical for your team?  
+Prospect: Custom reporting and mobile access are essential. We need to track leads effectively on the go.  
+Rep: Great insights. What would success look like for you in three months?  
+Prospect: Increased lead conversion rates and higher user adoption.  
+Rep: Any budget constraints we should consider?  
+Prospect: We’re looking at around $20,000 for licensing this year, but it needs to fit within that.  
+Rep: Understood. Have you evaluated any competitors yet?  
+Prospect: Yes, we looked at Salesforce and HubSpot, but they seem pricey for what we need.  
+Rep: Our solution offers similar features at a competitive price point. Would a demo next week work for you?  
+Prospect: Sure, let’s set that up.  
+Rep: I’ll send a calendar invite for Wednesday. Next step: gather your team’s specific needs for the demo.

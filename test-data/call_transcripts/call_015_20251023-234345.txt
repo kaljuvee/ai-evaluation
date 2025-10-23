@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and reporting. It's just too cumbersome.  
+Rep: I understand. What does your ideal solution look like?  
+Prospect: I want something that integrates seamlessly with our marketing tools and provides real-time insights.  
+Rep: That makes sense. How often do you need to generate reports?  
+Prospect: Weekly, but it takes way too long to compile them now.  
+Rep: If we could automate those reports and improve lead management, what would that mean for your team?  
+Prospect: It would save us hours, allowing us to focus on closing deals.  
+Rep: Are there budget constraints we should consider?  
+Prospect: We have a budget, but I need to justify the ROI to my CFO.  
+Rep: Our clients typically see a 30% increase in sales productivity within three months. Would a 30-day trial help you demonstrate that value?  
+Prospect: Yes, a trial sounds good. Let’s set it up for next week.  
+Rep: Great! I’ll send over the trial details and schedule a follow-up call for next Friday.

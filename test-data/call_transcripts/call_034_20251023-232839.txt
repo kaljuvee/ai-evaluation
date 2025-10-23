@@ -1,0 +1,13 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with lead tracking and our sales team finds it cumbersome to use.  
+Rep: I understand. What specific features are they looking for to improve their workflow?  
+Prospect: They want better automation for follow-ups and a more intuitive interface.  
+Rep: If we could enhance lead tracking and automate follow-ups, how would that impact your sales process?  
+Prospect: It would definitely increase our conversion rates and save time.  
+Rep: Are there any budget constraints we should be aware of?  
+Prospect: We have around $15,000 earmarked for this quarter.  
+Rep: Great, our solution starts at $12,000 annually. Do you have a timeline for implementation?  
+Prospect: Ideally, we'd like to roll it out in the next two months.  
+Rep: I can set up a demo next week. Would that work for you?  
+Prospect: Yes, let's do that.  
+Rep: I’ll send a calendar invite for the demo and follow up with some materials. Next step: gather your team's feedback afterward.

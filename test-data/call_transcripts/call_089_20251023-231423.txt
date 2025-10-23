@@ -1,0 +1,15 @@
+Rep: Thanks for chatting today. What challenges are you facing with your current CRM system?  
+Prospect: Our team struggles with lead tracking and reporting. It’s manual and slow.  
+Rep: I understand. How does this impact your sales cycle?  
+Prospect: We miss follow-ups, and leads slip through the cracks. It’s frustrating.  
+Rep: What would an ideal solution look like for you?  
+Prospect: Automated reminders and real-time dashboards. We need to speed things up.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget for this quarter, but it’s tight.  
+Rep: Understood. Are you evaluating other CRMs?  
+Prospect: We’re looking at Salesforce and HubSpot.  
+Rep: Our CRM integrates seamlessly with both, but we focus on ease of use and support. Any concerns preventing a decision?  
+Prospect: Just the transition and training.  
+Rep: We offer full onboarding support. How about a demo next week?  
+Prospect: That sounds good. Let’s do Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and prepare a tailored demo.

@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What led you to explore new CRM solutions right now?  
+Prospect: Our current system isn’t scaling with our growth; it’s hard to track leads effectively.  
+Rep: That’s a common challenge. What specific features are you looking for in a new CRM?  
+Prospect: We need better reporting and integration with our marketing tools.  
+Rep: Understood. What would a successful implementation look like for you?  
+Prospect: If we could increase lead conversion by 20% in the next quarter, that’d be great.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget of around $20,000, but we need to see a solid ROI.  
+Rep: That’s helpful. Are you also considering competitors like Salesforce or HubSpot?  
+Prospect: Yes, but we’re concerned about their complexity and costs.  
+Rep: Our platform offers simplicity and scalability. Would a demo next week work for you?  
+Prospect: Yes, I’d like to see how it integrates with our tools.  
+Rep: Great! I’ll send a calendar invite for Tuesday and include a demo agenda.

@@ -1,0 +1,13 @@
+Rep: Thanks for your time today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with tracking leads effectively. It feels scattered and inefficient.  
+Rep: That’s a common issue. How are you currently managing lead follow-ups?  
+Prospect: Mostly through spreadsheets and emails. It’s hard to keep everyone aligned.  
+Rep: I understand. What improvements would you be hoping for in a new system?  
+Prospect: I need better visibility into our pipeline and automated reminders for follow-ups.  
+Rep: What are your main concerns about switching CRMs?  
+Prospect: The cost and potential downtime during the transition.  
+Rep: Our solution offers a phased implementation to minimize disruption, starting at $49 per user per month. Does that fit your budget?  
+Prospect: Budget is tight, but if it brings efficiency, it might be worth it.  
+Rep: Other clients have seen a 30% increase in conversions within three months. Would you be open to a demo next week?  
+Prospect: Yes, let’s do that.  
+Rep: Great! I’ll send a calendar invite for Thursday and prepare a tailored demo.

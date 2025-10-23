@@ -43,19 +43,7 @@ def test_imports():
         print(f"✗ langchain import failed: {e}")
         return False
     
-    try:
-        import faiss
-        print("✓ faiss imported successfully")
-    except ImportError as e:
-        print(f"✗ faiss import failed: {e}")
-        return False
-    
-    try:
-        from sentence_transformers import SentenceTransformer
-        print("✓ sentence-transformers imported successfully")
-    except ImportError as e:
-        print(f"✗ sentence-transformers import failed: {e}")
-        return False
+    # Skip FAISS and sentence-transformers checks in minimal OpenAI-only setup
     
     return True
 

@@ -1,0 +1,14 @@
+Rep: Thanks for taking the time today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with lead tracking and data integration across teams. It’s impacting our sales cycle.  
+Rep: I understand. How do you currently manage lead handoffs?  
+Prospect: It’s mostly manual, leading to lost opportunities.  
+Rep: If we could streamline that process and improve conversion rates, what would that mean for your team?  
+Prospect: A 20% increase in conversions would be huge for us.  
+Rep: Are there any budget constraints we should keep in mind?  
+Prospect: We have a budget, but we’re also evaluating a couple of competitors.  
+Rep: Which competitors are you looking at?  
+Prospect: HubSpot and Salesforce.  
+Rep: We offer more customization and better integration at a lower cost. Would a demo showing our integration capabilities help?  
+Prospect: Yes, that would be useful.  
+Rep: Great! Let’s schedule a demo for Thursday. I’ll send a calendar invite and a brief agenda.  
+Prospect: Sounds good. Looking forward to it!

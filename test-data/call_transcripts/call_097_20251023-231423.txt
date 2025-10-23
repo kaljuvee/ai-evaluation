@@ -1,0 +1,13 @@
+Rep: Thanks for meeting today. What led you to explore new CRM solutions?  
+Prospect: Our current system is too clunky, and it’s affecting our sales team’s productivity.  
+Rep: I understand. Can you share which specific features you find lacking?  
+Prospect: Reporting is slow, and we struggle with tracking customer interactions effectively.  
+Rep: If we could streamline reporting and enhance interaction tracking, what would that mean for your sales goals?  
+Prospect: It could help us close deals faster and increase our conversion rates significantly.  
+Rep: Do you have a budget in mind for this project?  
+Prospect: We’ve allocated around $20,000 for a solution this quarter.  
+Rep: Are there other stakeholders involved in the decision-making process?  
+Prospect: Yes, the CFO will want to see a clear ROI.  
+Rep: Our tool integrates well with your existing systems, and we can demonstrate ROI in a pilot. Would a phased rollout work for you?  
+Prospect: Yes, let’s start there.  
+Rep: Great! I’ll send over a pilot proposal and schedule a follow-up next week to review it.

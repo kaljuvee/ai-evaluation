@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What led you to explore CRM solutions right now?  
+Prospect: We’re facing challenges with lead tracking and communication across teams.  
+Rep: I see. Can you share how your current system falls short?  
+Prospect: It’s disjointed; sales and marketing aren’t aligned, and we’re missing follow-ups.  
+Rep: Understood. If you could improve one key area, what would it be?  
+Prospect: Better visibility into the sales pipeline and lead nurturing.  
+Rep: Great! How does your budget look for a CRM upgrade?  
+Prospect: We have about $20,000 allocated this quarter.  
+Rep: Competitors like HubSpot and Salesforce offer robust solutions. What’s your experience with them?  
+Prospect: They’re good, but we need something more customizable to fit our processes.  
+Rep: Our CRM offers flexibility and seamless integrations. Would a demo next week work for you?  
+Prospect: Yes, let’s do a demo.  
+Rep: I’ll set that up for Wednesday and follow up with a calendar invite.

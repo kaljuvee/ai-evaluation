@@ -1,0 +1,13 @@
+Rep: Hi, thanks for connecting today. What challenges are you currently facing with your sales processes?  
+Prospect: We’re struggling with tracking leads and managing follow-ups efficiently. Too many missed opportunities.  
+Rep: That’s a common issue. How are you currently managing your leads?  
+Prospect: We’re using spreadsheets and email, but it’s chaotic and prone to errors.  
+Rep: I see. If you could streamline your lead management, what would that help you achieve?  
+Prospect: More closed deals and better forecasting.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility, but it has to show ROI quickly.  
+Rep: Understandable. Are you evaluating other CRM solutions?  
+Prospect: Yes, we’re looking at HubSpot and Salesforce, but they seem expensive.  
+Rep: Our CRM offers competitive pricing with robust features. Would a demo next week help you compare?  
+Prospect: That sounds good. Let’s do a demo Thursday.  
+Rep: Great! I’ll send a calendar invite and prepare a tailored demo based on your needs. Next step: confirm participants.

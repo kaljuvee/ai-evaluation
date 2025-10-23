@@ -1,0 +1,14 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM system?  
+Prospect: We're struggling with tracking leads and managing follow-ups effectively. It feels chaotic.  
+Rep: I understand. How do you currently prioritize leads?  
+Prospect: Right now, it’s mostly manual. We rely on gut feeling, which isn’t working.  
+Rep: If you had a system to automate lead scoring, what would that change for your team?  
+Prospect: It would save us time and increase conversions. We need better insights for our sales reps.  
+Rep: Are you looking to integrate with any existing tools?  
+Prospect: Yes, we use HubSpot for marketing—seamless integration is a must.  
+Rep: Our CRM integrates easily with HubSpot and provides real-time analytics. What’s your budget for this?  
+Prospect: We have around $15,000 for this quarter.  
+Rep: Great! We can start with a 30-day trial. Would you be able to present the results to your team?  
+Prospect: Yes, but I’ll need a solid ROI case.  
+Rep: We’ll outline that in the trial. Let’s schedule a demo for next week to dive deeper. How does Tuesday work?  
+Prospect: Tuesday works! Looking forward to it.

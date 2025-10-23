@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What led you to explore a new CRM solution now?  
+Prospect: Our current system is too complex, and our sales team struggles with adoption.  
+Rep: I see. What specific features are your team finding most challenging?  
+Prospect: The reporting tools are clunky, and tracking leads through the pipeline is a hassle.  
+Rep: Understood. What improvements would you like to see in the next three months?  
+Prospect: A more intuitive interface and real-time reporting would be ideal.  
+Rep: Any budget parameters we should be aware of?  
+Prospect: We have about $15,000 allocated for this year.  
+Rep: Is there a competitor you're evaluating alongside us?  
+Prospect: We’re looking at HubSpot, but we’re concerned about their pricing model.  
+Rep: Our pricing is straightforward, no hidden fees. Would a demo next week help?  
+Prospect: Yes, that sounds good. Let’s include the sales manager in that.  
+Rep: I’ll set that up for Wednesday and send over a calendar invite. Next step: gather feedback after the demo.

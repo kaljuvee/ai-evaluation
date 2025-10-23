@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM solution?  
+Prospect: We're struggling with lead tracking and reporting accuracy. It's slowing down our sales cycle.  
+Rep: I understand. How do you currently manage lead distribution among your team?  
+Prospect: It's manual right now, which causes delays and confusion.  
+Rep: If we could automate lead distribution and improve reporting visibility, what difference would that make?  
+Prospect: It would help us close deals faster and keep the team aligned.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have some flexibility but need to see ROI projections.  
+Rep: That makes sense. Are there specific features you’re looking for to enhance your sales process?  
+Prospect: Integration with our marketing tools is crucial.  
+Rep: Our CRM integrates seamlessly with most major platforms. Any concerns about switching?  
+Prospect: Just the learning curve for the team.  
+Rep: We offer training resources and ongoing support. How about a demo next week to see if it fits?  
+Prospect: That sounds good. Let’s set it up for Thursday.  
+Rep: I’ll send a calendar invite. Next step: gather feedback from your team after the demo.

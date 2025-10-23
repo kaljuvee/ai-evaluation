@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today! What challenges are you currently facing with your CRM system?  
+Prospect: We’re struggling with lead tracking and reporting. It’s all over the place.  
+Rep: I hear you. Can you describe how you currently manage your leads?  
+Prospect: We use spreadsheets, and it’s cumbersome. Sales reps miss updates frequently.  
+Rep: What would an ideal CRM help you achieve in terms of sales efficiency?  
+Prospect: Automated follow-ups and real-time insights would be game-changers.  
+Rep: That makes sense. Do you have a budget in mind for a CRM solution?  
+Prospect: We’re looking at around $10,000 this quarter.  
+Rep: Great. Are you considering other CRM platforms?  
+Prospect: Yes, we've looked at Salesforce, but it's pricey.  
+Rep: Our solution offers similar functionalities with lower costs and easier onboarding. Any concerns about implementation?  
+Prospect: Just the typical data migration worries.  
+Rep: We can assist with migration and offer a trial period. How about starting a pilot next month?  
+Prospect: Sounds good. Let’s discuss the pilot details next week.  
+Rep: Perfect! I’ll send over the information to set that up.

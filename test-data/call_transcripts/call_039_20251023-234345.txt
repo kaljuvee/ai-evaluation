@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: We're struggling with lead tracking and pipeline visibility. It’s affecting our sales forecasts.  
+Rep: I see. Can you share how your team currently manages leads?  
+Prospect: We use spreadsheets and a basic tool, but it’s cumbersome and outdated.  
+Rep: Understood. What specific features would help improve your process?  
+Prospect: Automated lead scoring and real-time reporting would be huge.  
+Rep: What timeline are you looking at for implementing a new system?  
+Prospect: We’d like to roll something out within the next quarter.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have around $15,000 allocated for this project.  
+Rep: We can offer a package within that range. Have you looked at any competitors?  
+Prospect: Yes, we’ve seen a few, but they don't match our needs.  
+Rep: I suggest a demo to showcase our automation features. How does next Wednesday sound?  
+Prospect: That works! Let’s also involve our sales manager.  
+Rep: Perfect. I’ll send a calendar invite and a demo agenda. Next step: confirm attendees by Monday.

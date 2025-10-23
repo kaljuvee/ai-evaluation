@@ -1,0 +1,15 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: We’re struggling with lead tracking and team collaboration as we scale.  
+Rep: I see. What specific challenges are you facing with your current system?  
+Prospect: It’s not user-friendly, and we lose leads in the pipeline.  
+Rep: Understood. What would an ideal CRM help you achieve in the next quarter?  
+Prospect: Better visibility on lead status and clearer communication among the sales team.  
+Rep: Any budget considerations or timeline for implementation?  
+Prospect: We have a budget approved for this quarter but need a quick rollout.  
+Rep: Are you evaluating any competitors?  
+Prospect: Yes, we’re looking at Salesforce and HubSpot.  
+Rep: Our platform offers a seamless integration with tools you’re already using and robust reporting features. What’s your biggest concern about switching?  
+Prospect: Data migration and training the team.  
+Rep: We can offer a guided migration and training sessions. How about a demo next week?  
+Prospect: That sounds good. Let’s schedule it for Thursday.  
+Rep: I’ll send a calendar invite and the demo agenda. Looking forward to it!

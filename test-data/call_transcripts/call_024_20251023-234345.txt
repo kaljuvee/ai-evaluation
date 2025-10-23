@@ -1,0 +1,15 @@
+Rep: Thanks for meeting today. What’s driving your search for a new CRM solution?  
+Prospect: Our current system isn’t scaling well, and the team struggles with data entry.  
+Rep: I see. What specific challenges are your sales reps facing with data management?  
+Prospect: They spend too much time on manual entry and miss follow-ups.  
+Rep: That’s frustrating. What would the ideal CRM help your team achieve in the next quarter?  
+Prospect: We need better tracking of leads and automated reminders for follow-ups.  
+Rep: Understood. Do you have a budget in mind for this project?  
+Prospect: We’re looking at around $15,000 for the initial setup.  
+Rep: Great. Are there any competitors you’re considering?  
+Prospect: We’ve looked at Salesforce and HubSpot, but they seem complex.  
+Rep: Our CRM is user-friendly and offers automation tailored for sales teams. Any concerns about implementation?  
+Prospect: Just the potential disruption during the switch.  
+Rep: We can run a pilot for two weeks to minimize risk. Would that work for you?  
+Prospect: Yes, let’s set that up.  
+Rep: I’ll send over a pilot plan and get a kickoff on the calendar for next week.

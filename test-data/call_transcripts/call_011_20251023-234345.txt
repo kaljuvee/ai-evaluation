@@ -1,0 +1,14 @@
+Rep: Hi, thanks for connecting today! What’s driving your search for a new CRM solution right now?  
+Prospect: Our current system is outdated and lacks integration with our sales tools.  
+Rep: That’s frustrating. What specific integrations are you looking for?  
+Prospect: We need seamless connections with our email and marketing automation tools.  
+Rep: Understood. What challenges are your sales team facing with the current system?  
+Prospect: They spend too much time on data entry instead of selling.  
+Rep: If we could automate data entry and improve reporting, what would that enable your team to achieve?  
+Prospect: Increased sales productivity and better forecasting.  
+Rep: Are there any budget constraints or timelines we should be aware of?  
+Prospect: We have a budget set for this quarter, but we need to see ROI quickly.  
+Rep: We can set up a trial to demonstrate ROI within 30 days. Any concerns about switching CRMs?  
+Prospect: Just the time it takes to train the team.  
+Rep: We offer onboarding support, so let’s schedule a demo next week to show our training resources.  
+Prospect: Sounds good. Let’s do that!

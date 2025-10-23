@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today! What led you to explore a new CRM solution right now?  
+Prospect: Our current system isn't integrating well with our marketing tools, and the sales team is frustrated.  
+Rep: I understand. What specific challenges are your sales reps facing?  
+Prospect: They struggle with tracking leads and managing follow-ups effectively.  
+Rep: If we could streamline lead tracking and enhance collaboration, what would that mean for your team?  
+Prospect: We’d close deals faster and improve our conversion rates.  
+Rep: What’s your budget for a CRM solution?  
+Prospect: We’re looking at around $15,000 annually.  
+Rep: Our pricing starts at $12,000 and includes full support. We’re also more user-friendly compared to HubSpot. Any concerns before we proceed?  
+Prospect: Data migration is a big worry.  
+Rep: We offer a dedicated migration team to ensure a smooth transition. Would a pilot program help alleviate your concerns?  
+Prospect: Yes, that sounds good. Let’s do a pilot next month.  
+Rep: I’ll send a proposal and set up a follow-up meeting for next week.

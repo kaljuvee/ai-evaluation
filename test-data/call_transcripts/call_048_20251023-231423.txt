@@ -1,0 +1,13 @@
+Rep: Thanks for connecting today. What’s driving your interest in a new CRM solution?  
+Prospect: We need better pipeline visibility and to streamline our sales process.  
+Rep: Got it. What challenges are your team facing with your current system?  
+Prospect: It’s not user-friendly and lacks integration with our marketing tools.  
+Rep: Understood. If we could improve user adoption and integrate seamlessly, what would that mean for your sales team?  
+Prospect: It would boost productivity and improve lead follow-up.  
+Rep: Any budget constraints we should consider?  
+Prospect: We have a budget set for Q1, but we’re cautious about pricing.  
+Rep: Fair point. Our pricing is flexible, starting at $99/user/month. We also offer a tiered plan based on features. Any competitors you’re evaluating?  
+Prospect: We’re looking at HubSpot and Salesforce, but they seem pricier.  
+Rep: We provide similar features at a competitive rate. How about a demo next week to showcase our capabilities?  
+Prospect: That sounds good. Let’s schedule it for Wednesday.  
+Rep: Perfect! I’ll send a calendar invite and a follow-up email.

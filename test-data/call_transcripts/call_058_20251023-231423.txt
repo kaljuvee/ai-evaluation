@@ -1,0 +1,25 @@
+Rep: Thanks for connecting today. What challenges are you facing with your current CRM?
+
+Prospect: We're struggling with data accuracy and user adoption across the team.
+
+Rep: That’s a common issue. How do you currently manage data entry and updates?
+
+Prospect: It’s mostly manual, and sales reps often forget to log interactions.
+
+Rep: I see. What improvements would you like to see in the next quarter?
+
+Prospect: We need a system that automates updates and integrates with our email platform.
+
+Rep: Our CRM offers seamless email integration and automatic data capture. Is budget a concern for you?
+
+Prospect: We have some room, but we’re evaluating other tools too.
+
+Rep: Understood. What features are most important to you in those alternatives?
+
+Prospect: Ease of use and customer support are crucial.
+
+Rep: Our clients report high satisfaction with support. Would a demo next week work for you?
+
+Prospect: Yes, let’s do Tuesday at 2 PM.
+
+Rep: Great! I’ll send a calendar invite and prepare a tailored demo. Next step: share your key use cases.

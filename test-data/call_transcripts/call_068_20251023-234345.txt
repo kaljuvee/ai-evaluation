@@ -1,0 +1,14 @@
+Rep: Thanks for connecting today! What challenges are you facing with your current CRM system?  
+Prospect: We’re struggling with data silos and poor visibility into sales performance.  
+Rep: I see. How do these issues impact your team's productivity?  
+Prospect: It leads to missed opportunities and inconsistent forecasting.  
+Rep: Understood. What specific features are you looking for in a new CRM?  
+Prospect: We need better reporting and integration with our marketing tools.  
+Rep: That makes sense. Any budget constraints we should consider?  
+Prospect: We have around $20,000 allocated for this quarter.  
+Rep: Great. Have you evaluated any competitors?  
+Prospect: Yes, we’ve looked at Salesforce and HubSpot, but they're pricey.  
+Rep: Our solution offers competitive pricing and robust features, starting at $15,000 annually. Would a demo help you visualize how we can meet your needs?  
+Prospect: Yes, a demo would be helpful.  
+Rep: Let’s schedule one for next Thursday. I’ll send a calendar invite. How does that sound?  
+Prospect: Perfect, looking forward to it!

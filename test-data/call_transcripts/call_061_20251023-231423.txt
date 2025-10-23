@@ -1,0 +1,15 @@
+Rep: Thanks for taking the time to chat today. What challenges are you facing with your current CRM system?  
+Prospect: Our sales team finds it clunky and often misses tracking customer interactions.  
+Rep: I understand. How do you currently track customer engagement?  
+Prospect: Mainly through manual entries and spreadsheets, which are time-consuming.  
+Rep: If we could streamline those processes and improve tracking, what would that mean for your team?  
+Prospect: It would boost productivity and improve follow-ups, definitely.  
+Rep: Are there specific features you’re looking for in a new CRM?  
+Prospect: Integration with our email and automation for lead scoring.  
+Rep: Our platform excels in both areas. What’s your budget for this project?  
+Prospect: We have around $15,000 allocated this quarter.  
+Rep: Great, we can work within that. Any concerns about switching systems?  
+Prospect: Just the time for training and possible downtime.  
+Rep: We can implement a phased rollout with training sessions. How does a demo next week sound?  
+Prospect: That works. Let’s schedule it.  
+Rep: I’ll send a calendar invite. Next step: confirm the demo date.
