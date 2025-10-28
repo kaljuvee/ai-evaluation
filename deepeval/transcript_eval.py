@@ -24,10 +24,11 @@ from langchain_core.messages import SystemMessage, HumanMessage
 
 
 def build_llm():
+    summarize_model = os.getenv("SUMMARIZE_MODEL", "gpt-3.5-turbo")
     try:
-        return ChatOpenAI(model="gpt-4o-mini", temperature=0)
+        return ChatOpenAI(model=summarize_model, temperature=0)
     except TypeError:
-        return ChatOpenAI(model_name="gpt-4o-mini", temperature=0)
+        return ChatOpenAI(model_name=summarize_model, temperature=0)
 
 
 LLM = build_llm()
@@ -102,7 +103,7 @@ def build_geval_metrics():
         from deepeval.models import OpenAIModel
 
         model = OpenAIModel(
-            model="gpt-4o-mini",
+            model=os.getenv("DEEPEVAL_MODEL", "gpt-3.5-turbo"),
             api_key=os.getenv("OPENAI_API_KEY"),
             temperature=0,
         )
@@ -201,7 +202,9 @@ def main() -> None:
     used_deepeval = coherence is not None
 
     results: List[Dict[str, Any]] = []
-    for file_id, original in items:
+    total = len(items)
+    for idx, (file_id, original) in enumerate(items, start=1):
+        print(f"Processing {idx}/{total}: {file_id}")
         summary = summarize(original)
 
         # Heuristics against ground truth (original used as context)
